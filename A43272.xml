@@ -1,0 +1,913 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The lambs innocency defended, against lyes and slanders In answer to a second reply of a priest, who is called a minister at Lazonby in Cumberland called Simon Atkinson, who hath shewed his wolfish nature against those people called Quakers; ranking them up with the papists; falsly accusing them of those things which they utterly detest; but his weapons is turned against himselfe by one of the campe of the God of Israel, whose eye is opened in measure, ... working in the shadow of reformation translated into a fairer forme springing from the old corrupt root; and to see the bickerings of the night-armie running on heaps now in the dawning of the day; and the uncircumcised in Heart and Ears in flying from the light, and repoose of the same: and from the alarum of the spirits trumpet which is founded vvithin, for the cutting downe of the man of sin, and for the quenching of his motions. Written in defence of the truth as it is in Jesus, by a foole to the wisdom of this world, who, according to measure, hath tasted and obtained of the wisdome </title>
+            <author>Helling, Joseph.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1658</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 138 KB of XML-encoded text transcribed from 27 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A43272</idno>
+            <idno type="STC">Wing H1382</idno>
+            <idno type="STC">ESTC R216631</idno>
+            <idno type="EEBO-CITATION">99828356</idno>
+            <idno type="PROQUEST">99828356</idno>
+            <idno type="VID">32783</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A43272)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 32783)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1866:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The lambs innocency defended, against lyes and slanders In answer to a second reply of a priest, who is called a minister at Lazonby in Cumberland called Simon Atkinson, who hath shewed his wolfish nature against those people called Quakers; ranking them up with the papists; falsly accusing them of those things which they utterly detest; but his weapons is turned against himselfe by one of the campe of the God of Israel, whose eye is opened in measure, ... working in the shadow of reformation translated into a fairer forme springing from the old corrupt root; and to see the bickerings of the night-armie running on heaps now in the dawning of the day; and the uncircumcised in Heart and Ears in flying from the light, and repoose of the same: and from the alarum of the spirits trumpet which is founded vvithin, for the cutting downe of the man of sin, and for the quenching of his motions. Written in defence of the truth as it is in Jesus, by a foole to the wisdom of this world, who, according to measure, hath tasted and obtained of the wisdome </title>
+                  <author>Helling, Joseph.</author>
+               </titleStmt>
+               <extent>52 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1658.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>A reply to an unspecified work by Simon Atkinson.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Atkinson, Simon --  Controversial literature --  Early works to 1800.</term>
+               <term>Quakers --  England --  Cumberland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:32783:1" rendition="simple:additions"/>
+            <p>THE <gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap>AMBS INNOCENCY DEFENDED, Againſt Lyes and Slanders. <gap reason="illegible: page cropped" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Anſwer to a Second Reply of a Prieſt, who is <gap reason="illegible: page cropped" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>lled a Miniſter at <hi>Lazonby</hi> in <hi>Cumberland</hi> called <hi>Simon At<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>uſon,</hi> who hath ſhewed his Wolfiſh nature againſt thoſe people <gap reason="illegible: page cropped" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>lled <hi>Quakers;</hi> ranking them up with the Papiſts; falſly accuſing them <gap reason="illegible: page cropped" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>f thoſe things which they utterly deteſt: but his weapons is turned againſt himſelfe by one of the Campe of the God of Iſrael, whoſe <gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ye it opened in meaſure, by the inward ſearch and Counſell of Gods <gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pirit, to ſee the winding paths of the crooked Serpent, and to ſee the Wolfe under the covering of out-ſide Painted Profeſſion; and to ſee <gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he miſtery of Witchcraft working in the ſhadow of Reformation <gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ranſlated into a fairer forme ſpringing from the old corrupt root; <gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd to ſee the bickerings of the night-armie running on heaps now in the dawning of the day; and the uncircumciſed in Heart and Ears is Flying from the light, and rep<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oofe of the ſame: and from the Alarum <hi>of</hi> the Spirits Trumpet <hi>which</hi> is ſounded within, for the cutting downe of the man of ſin, and for the quenching of his Motions.</p>
+            <q>O Lord, in thy light, we ſee light, and by it all things is made manifeſt; and thou art worthy of all honour, and beſides thee there is not another: for thou haſt opened our eyes and unvailed our underſtandings, <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the diſcovery of the skirts of the Whore!</q>
+            <q>
+               <p>Light is ſowne for the righteous, and gladneſſe for the upright in heart: Bleſſed is the people that know the joyfull ſound; they ſhall walke, O Lord, in the light of thy countenance. Truely thy light is ſweet, and a pleaſant thing it is for the Eyes to behold the Sun,</p>
+               <bibl>
+                  <hi>Pſal. 97.11.</hi> &amp; <hi>89.<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>5. Eccleſ 11.7.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>Lift up thy ſelfe, thou Judge of the Earth; render a reward to the proud. They gather them<g ref="char:EOLhyphen"/>ſelves together againſt the ſoule of the righteous, and condemne the Innocent blood. Every day they wreſt my words: all their thoughts are againſt me for evill. And thou haſt made us a by-word among the Heathen, and a ſhaking of the head amongſt the people,</p>
+               <bibl>
+                  <hi>Pſal. 94 2.</hi> &amp; <hi>21.</hi> &amp; <hi>56.5</hi> &amp; <hi>44.13 14.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>A falſe Witneſſe ſhall not goe unpuniſhed, and he this ſpeaketh lyes ſhall periſh,</p>
+               <bibl>
+                  <hi>Prov, 19.9.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>There is a voyce of the howling of the Shepherds, for their glory is ſpoyled,</p>
+               <bibl>
+                  <hi>Zach. 11.3.</hi>
+               </bibl>
+            </q>
+            <p>Written in defence of the Truth as it is in Jeſus, by a Foole to the Wiſdom of this World, who, according to meaſure, hath taſted and obtained of the Wiſdome of God; whoſe bodily name is called, <hi>Joſeph Helling.</hi> 1658.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:32783:2"/>
+            <pb facs="tcp:32783:2"/>
+            <head>To the READER.</head>
+            <p>FRiend, whoſoever thou art that Reades this Dialogue or Conference enſaing, I deſire thy ſtability, in an honeſt Conſideration before thou judge, that thy judgement may be without partiality, in truth, and ſincerity; for the end of my Writing is not for the laud of Men, but for the taking off of Scandalls: Therefore have I tranſcribed the Prieſts <hi>Second Reply</hi> to me. Firſt, His Anſwers to my Pa<g ref="char:EOLhyphen"/>per, and ſome of my quaeries. Secondly, His Conſiderations. Thirdly, His Accuſations and Cloſure; the ſcope of all which, I have tranſcribed and anſwered, having abridged my anſwers with as much brevity as I could conveniently, be<g ref="char:EOLhyphen"/>ing aſſaulted with ſuch a wreſting, falſe-accuſing Spirit, which is not aſhamed to write his forged lyes and falſe conſtructi<g ref="char:EOLhyphen"/>ons in a Volume, the ſcope of which is divided into parſells, and anſwered in plainneſſe, and ſingleneſſe of Heart for all ſeeking-ſober-minded, to judge with the ſeed and witneſſe of God in the conſciences of every one who reades them. And Friend, though thou may judge me raſh or cenſorious, becauſe I render to a falſe Prophet his name, and to an hireling his name, and to a lyar his name, and to the miſtery of witcheraft (in the ſhadow of Reformation) its name, and to the wolfiſh Miniſtry of anti-Chriſt is name. I ſay, though thou may judge me in thy will and reaſon to be rude in ſpeech; yet know thou, that I am not rude in knowledge; but I ſhall ſtand
+<pb facs="tcp:32783:3"/>to vindicate the truth of what I have here layd downe in theſe enſuing Anſwers. Alſo, for brevity ſake, I have onely cited the chapter and the verſes, but not tranſcribed the ſumme of the words, but hath left them to thy ſearch, and honeſt con<g ref="char:EOLhyphen"/>ſideration. And this is my deſire, That the ancient of dayes might be exalted above all the heads of Hereſie. And that peo<g ref="char:EOLhyphen"/>ples underſtandings might be opened, that <hi>the Man of ſinne</hi> might he made manifeſt in the miſtery of his working (mark) and that the worſhip might be known which ſtandeth out of all the limiting wills of Men; and that all falſe Teachers might be diſcovered by their fruits, and according to Scri<g ref="char:EOLhyphen"/>pture, who in this age is found caſting blocks in the way of innocency, and is as a thorne hedge before the ſimplicity that is in Chriſt Jeſus; who for their Trade, Marchandize, and Bellies ſake, they ſet themſelves in array in the unity of en<g ref="char:EOLhyphen"/>mity againſt the light and teachings of Gods Spirit in Man: one of which volunteers of <hi>Gog,</hi> whoſe name is in the Title page <hi>S. A.</hi> hath uttered his folly, as one caſting a ſtone into the Ayre, which falleth upon his own Head, as thou may ſee (Reader) if thy Meaſure be juſt, and Ballances equall.</p>
+            <p>
+               <hi>He that anſwereth a mater before he heareth it, it is ſolly and ſhame vnto him. The Heart of the Righteous ſtudi<g ref="char:EOLhyphen"/>eth to anſwer: but the mouth of the wicked powreth out evill things,</hi> Prov. <hi>18.13. &amp; 15.28.</hi>
+            </p>
+            <closer>
+               <signed>Joſeph Helling.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:32783:3"/>
+            <head>The Lambs Innocency Deſended againſt Lyes and Slanders, in Anſwer to a ſecond Reply of a Prieſt, &amp;c.</head>
+            <opener>
+               <salute>Simon Atkinſon,</salute>
+            </opener>
+            <p>I Have received thy Paper, wherein I find thee acted by <hi>Corahs</hi> ſpirit, in <hi>Kains</hi> way: but man, know thou, that its neither lyes, nor falſe accuſations that I have layd upon thee, far be it from me; and the Lord doe ſo to me, and more if I wrong thee, or you, as thou haft done me and my Brethren. But in plainneſſe, and in truth, I anſwer againſt thy ſophiſtry, for the defence of innocency, and if there be any other end in me, let it be accurſed.</p>
+            <p>
+               <hi>Prieſt.</hi> Deluded ſoules; The Scripture ſaith, <hi>Pro.</hi> 17.15. <hi>He that juſtifieth the wicked, and he that condemneth the righteous, even they both are abomination to the</hi> Lord.</p>
+            <p>
+               <hi>Anſwer.</hi> Deceiver of ſoules, <hi>Pro.</hi> 17.15. is fulfilled upon thee and you, who through covetouſneſse, with fained words maks mat<g ref="char:EOLhyphen"/>chandiſe of ſoules for your diſhoneſt gain: and yet ſaith, you are the Miniſters of <hi>Chriſt:</hi> here you are found juſtifying the wicked, even a generation of perſecuting Prieſts, to be <hi>Chriſts</hi> Miniſters.</p>
+            <p>Pr. <hi>Which ab<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>minable ends is found in you, and in all of your way, more then in any generation of people in the world at this day that I know of?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Here thou art ſound ignorant of us, and belyes us, in ſay<g ref="char:EOLhyphen"/>ing, <hi>that we juſtifie the wicked,</hi> we are cleare from thine accuſation; and let all that knows any thing of our converſations beare us wit<g ref="char:EOLhyphen"/>neſſe, whether we countenance wickedneſſe in the leaſt, in any ap<g ref="char:EOLhyphen"/>pearance: ſo man, be willing to receive thy ruſty ſtuffe back again into its own bottle from whence it was broached, for it hath no place amongſt us; for by us all wickedneſſe, and your leven and traſh is denyed.</p>
+            <p>Pr. <hi>Who are not only as the Devill himſelfe accuſers of the Bre<g ref="char:EOLhyphen"/>thren; but alſo contemners of the generation of Gods children</hi> Rev. 12.10. <hi>doe you not diſcover this apparantly in all your reproach full prat<g ref="char:EOLhyphen"/>lings, ſlanders, ſeriblings, and oppoſitions againſt the moſt godly and pretious, both miniſters and people, whom the world batch?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> As for accuſing the Saints or Children of light, that's falſe; or for contemning godly and pretious Miniſters and People; far be
+<pb facs="tcp:32783:4"/>if from us: but <hi>Kaines</hi> generation, <hi>Hams</hi> off-ſping, and <hi>Iſhmaels</hi> brood, and them that ſay they are Chriſtians, and Miniſters of Chriſt Jeſus, and are not (them we write and ſpeak againſt) in whoſe ſteps you are ſound, in envie, and covetouſneſſe, ſuing at Law, ſtraining mens goods, Preaching for hire, for filthy lucre: therefore let <hi>Rev.</hi> 12.10. turne edge againſt thee, who is not onely found accuſing, but falſely accuſing, and fiercely deſpiſing the innocent; writing in wrath, and contempt, concluding us to be deluders, and deluded, becaus;e the Lord hath opened our Eyes to ſee your cunning deceipt and hypocriſie: for which cauſe you are angry, becauſe your trade is like to periſh, or be ſet at naught; and if the reſt of your Bre<g ref="char:EOLhyphen"/>thren (the children of Mammon) hate you; yet know thou, that you are both in one ground albeit you be a little more in words, and ſeeming ſomthing more like the truth then the other; yet receive them for thy Brethren, for you are ſound in the unity of enmity againſt the ſeed of the woman, and teaching of Gods ſpirit with<g ref="char:EOLhyphen"/>in man, contrary to <hi>Iohn</hi> 14.26.</p>
+            <p>Pr. <hi>And will God thank you, or will not the Devill rather, for ſad<g ref="char:EOLhyphen"/>ding the ſoules of the Saints, whom the</hi> Lord <hi>would not have ſadded?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> We are bound to give thanks unto God, but not God to give us thanks; here thou art ſeen in thy drunken wiſedome, ſpeak<g ref="char:EOLhyphen"/>ing thou knows not what: and as for the Devill, he ſights to main<g ref="char:EOLhyphen"/>tain his Kingdom againſt us, and therefore will not thank us, for his peace is broken (which thou calls <hi>ſadding the ſoules of the Saints;</hi>) I ſay, take heed that it be not the Devils peace that is broken in you, for no other Kingdom doe we ſtrive againſt, but that of darkneſſe; and if you were out of it (in the election of grace) then would you know us, &amp; what we juſtifie &amp; what we condemn; but thou and you knows us not, therefore it is fulfilled which was ſpoken by our head, <hi>they hated me without a cauſe;</hi> even ſo doe you his members, who are content to bear your hatred, &amp; the Lord lay it not to your charge.</p>
+            <p>Pr. <hi>Or will he accept of your accuſations, charges, and condemnati<g ref="char:EOLhyphen"/>ons againſt his own Elect? Is it not he that juſtifieth them? who and what are you that you condemne them?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> God accepts the righteous, and they ſhall judge the world, and their accuſations, charges, and condemnations is juſt againſt evill doers: but that we condemn ſuch, is falſe; but the ſpirit of truth in us condemneth ſuch as is not acted by it, and led out of
+<pb n="7" facs="tcp:32783:4"/>pride and covetouſneſſe, and out of <hi>Kaines, Corahs,</hi> and <hi>Balaams</hi> way, where you are found: And if you ſay, <hi>God juſtifieth ſuch,</hi> I ſay its falſe, and thou wilt find it ſo, we are clear from accuſing and condemning the Elect and juſtified of God; ſo here thou art found a lyar.</p>
+            <p>Pr. <hi>And if God have long patience with you, yet will not he al<g ref="char:EOLhyphen"/>wayes forget, nor at all forgive ſuch great impiety, except you Re<g ref="char:EOLhyphen"/>pent; conſider this you that forget God, &amp;c.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> While we were in the night of Apoſtaſie, and in darkneſſe under your fruitleſſe miniſtry; then were we forgetters of God (as thou and you are, which ſaith, and doth not) in which time the Lord might juſtly have cut us off in his hot diſpleaſure: but now he hath turned us toward himſelfe by repentance in ſelfe denyall, which repentance is never to be repented of: and wouldſt thou have us back again into the puddle of your imaginations? we know your ſpirits, if we could give you Tythes, and let you goe on in your own wayes unreproved, then we might be accepted, and have peace with you, by putting into your mouthes as well as others, then we might eſcape the ſpoyling of our goods, and the impriſoning of our bodies (by you) as well as the Papiſts and others.</p>
+            <p>Pr. <hi>Are not you they alſo that juſtifie the worſt and wick<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſt of the people above the godly? Does not your more ordinary ſilence towards them, with your feined and falſe faxning ſly and ſubtle inſinuation, abundantly teſtifie this?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Here, thou falſe accuſer, I charge thee with a lye, and it re<g ref="char:EOLhyphen"/>mains for thee to prove wherein, and what <hi>wickedneſſe, or wicked people we juſtifie;</hi> how long will thou not ceaſe to lye, thou would fain be <hi>Capernaum</hi>-like, but thou muſt come down to the ſides of the pit for thy lyes and ſlanders, except thou repent; for I tell thee, that our ſilence is not at all towards thee and you the leaders, nor towards them that are led by you; but whereſoever we meet with deceipt, we warn people to fly from it. And thou, the leader of the blind, muſt take thy portion with them that are blindly led except you repent. And as for <hi>ſubtilly inſinuating our ſelves</hi> into the <hi>wick<g ref="char:EOLhyphen"/>ed,</hi> that's falſe; for out teaching is not with in<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>cing words, but we Preach the croſſe of Chriſt, which is a dying unto ſin, and a grow<g ref="char:EOLhyphen"/>ing towards perſection, which is fooliſhneſſe to you, which teach<g ref="char:EOLhyphen"/>eth people, and tells them, they ſhall never be perſect; here thou
+<pb n="8" facs="tcp:32783:5"/>and you are ſound ſubtilly to inſinuate your perſwaſions into the tranſgreſſing part in people, and there you lodge in the hearts of your hearers, and by your bloody inſtigations, ſtirs them up to fight for your trade; take notice of that, and be aſhamed thus to bely the innocent who is under perſecution by you.</p>
+            <p>Pr. <hi>Yea, and moſt eſpecially your own juſtification evinceth your guilt in this.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Here I doe utterly deny thy aſſertion: for ſelfe-juſtification we deny, and all that remains in the fleſh (which is of the fleſh) and doth account it to be as rotten rags, and menſtruous clothes, and doth abhor our ſelves, and our own righteouſneſſe, and perfe<g ref="char:EOLhyphen"/>ction, cleaving onely to that of Chriſt Jeſus, who hath, and doth perfect, juſlifie, ſanctifie, and glorifie, and worketh in us both to will and to doe; ſo a lyar thou art, and as I ſaid before, not onely an accuſer, but a falſe accuſer; ſo be content to own it, for thou haſt ſet thy ſelſe to act it to thy ſhame.</p>
+            <p>Pr. <hi>Who although, as I ſaid before, you are a generation of evill doers, decemblers, and deceivers, as is abundantly evident by all your unfruitfull words, and works of darkneſſe, notoriouſly known of all, &amp;c. yet doe you juſtifie your ſelves more then the Phariſee, though you fall ſhort of him, &amp;c.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> This was thy accuſation in thy former Paper, which thou promiſed to prove poſitively, and particularly; but being required to doe it, thou now goes about to ſhift it off with falſe excuſes; for art not thou aſhamed to ſay it is un<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>chtiſtian-like in us; to ſay un<g ref="char:EOLhyphen"/>to thee, we require thee to prove that which thou thy ſelfe promi<g ref="char:EOLhyphen"/>ſed to doe? but now thou goes about to caſt a ſnare upon the inno<g ref="char:EOLhyphen"/>cent, and by thy windy wiſdome ſtrives to drive thy Clouds to vail then Sun. Oh <hi>Elimas</hi>-like, how long wilt thou not ceaſe to pervert the right wayes of the Lord?</p>
+            <p>Pr. <hi>But thou</hi> Joſeph Hilling <hi>hath ſent me a proud Challenge and Charge to doe it.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> I Charge thee to be a lyar here again, and I appeale to theſe words which I ſent unto thee (thou having layd down ſome accu<g ref="char:EOLhyphen"/>ſations as before) this was my words. <hi>For all which we require thee to bring in proofe poſitively and particularly, &amp;c.</hi> not challenging nor charging thee at all to prove it, but onely requiring thee; therefore own thy condemnation, thou haſt belyed me, and the
+<pb n="9" facs="tcp:32783:5"/>lying ſpirit in the ſets at naught the way of life.</p>
+            <p>Pr. <hi>And why ſhould Pearles be caſt before Swine, that will trample them under feet, and turne againe, and rend us?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> We doe not look for Pearles at your hands; for how can a Fountain ſend forth at one hole, ſweet water and bitter? Or how can a lyar and a falſe Accuſer communicate Pearles? and although thou tearm us to Swine, yet doe we chew our Cud, and knows our Manna, the food of life; and the Swine we know, thou that feeds upon the huske, putting the letter for the word, and try all of ſpi<g ref="char:EOLhyphen"/>rits, and for your rule, and not the new Creature. Therefore, I ſay, deale honeſtly with thy ſoule, and take heed that thou be not found a Swincherd, in ſtead of a Shepherd, take notice of that, thou that trades with the letter.</p>
+            <p>Pr. <hi>And why ſhould you require this of me, or nay of us, ſith thou doſt deny and renounce the power which the Lord hath given us to edification, and not to deſtruction; which if thou haſt no expe<g ref="char:EOLhyphen"/>rience of thy ſelfe, yet take head of condemning them that have; for wiſedome is juſtified of her children; and they that are of God, hears Gods Word, &amp;c.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> I have required nothing concerning this of thee, nor of any of you, but that which thou thy ſelſe proſered; and why doſt thou profer that which thou doſt not performe? this is truce-breaking, and thou art a truce-breaker herein. And as <hi>for denying the power, which thou ſaith, the Lord hath given you,</hi> (as above) thou haſt given me good cauſe to deny thee, and the power by which thou art acted, whoſe impudent lyes, declares thee to have no power given of the Lord, but thy power is the power of darkneſſe (which pleads againſt the light) transformed into the likeneſſe of truth, before them whom the God of this world hath blinded, who ſees not your life, nor diſcerns not your voyces. And as for having experience of my ſelfe, It tell thee, The ſpirit of truth in me condemns all whoſe expe<g ref="char:EOLhyphen"/>rience is but ſelfe experience, for I know nothing of God by my ſelfe, nor of my ſelfe, for that cannot juſtifie wiſdom; but thou whoſe experience is of thy ſelfe, is not a child of wiſdom, for if thou were, thou would be aſhamed to lye as thou haſt done, as is proved. And as for them that are of God, who hears Gods word, them I dearly own, and imbrace, for they are gathered into the ſold unto the one Shepherd, and ſhall be no more meat for you, (<hi>Ezek.</hi>
+               <pb n="10" facs="tcp:32783:6"/>34.10. to the end) neither ſhall you be numbred with them ſo long as thou lyes falſely accuſeth, is called of men <hi>Maſter,</hi> and ſells thy ſelfe-experiences for money; thou muſt ſtoup, the ſtone is deſcend<g ref="char:EOLhyphen"/>ing againſt thy Image, and the Sun is riſen which will ſeatter thy miſt: therefore beware betime.</p>
+            <p>Pr. <hi>Thou art angry with me, becauſe I ſay, you are poor, miſerable, &amp;c.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Thou ſpeaks thou knows not what, for we are no more the blinder for thy ſo ſaying; but our blindneſſe and miſerableneſſe was, when we were deprived of the food of life (and of the light which giveth the knowledge of God) by your cunning ſophiſticall Do<g ref="char:EOLhyphen"/>ctrine, by which you inſinuate your ſelves into the peoples affecti<g ref="char:EOLhyphen"/>ons, keeping them alwayes learning, and never able to come to the knowledge of the truth which maketh free: and here is blindneſſe, and cauſe of anger, war, and fighting in the unperfect unruly part, marke that.</p>
+            <p>Pr. <hi>Pardon me, I had but almoſt forgot what you ſay, you ſee with them,</hi> John 9.41. <hi>and with</hi> Laodicea, Rev. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.17. <hi>that you are rich and increaſed with goods, and have need of nothing, &amp;c.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Here thou mocker ſhews thy ſelfe, in belying of us, we doe not ſee with them, <hi>Iohn</hi> 9.41. who did not own Chriſt; but we ſee with them that ſuffered the ſpoyling of their goods, and with them that was counted as the off-ſcouring of all things, and as ſheep for the ſlaughter for Chriſts ſake; yea, and with ſuch as was counted deceivers by the Sect of the Learned, to wit, the Scribes and Phari<g ref="char:EOLhyphen"/>ſees: therefore be willing to receive it home again, for it ſhall ſtand for thine own condition, with the reſt of thy Function, who is the ſucceſſors of the Scribes and Phariſees there ſpoken of, <hi>Iohn</hi> 9.41. take them for your predeceſſors, and fill yee up their meiſures, for In their ſteps you are found. And as for the <hi>La<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>diceaus, Rev.</hi> 3.17. that we are in their ſteps, there ſpoken of, is another lye; for the Lord is our witnes, we doe not boaſt of riches by <hi>increaſe of goods;</hi> neither doe we ſay, <hi>that we have need of nothing;</hi> and here thou art exerciſing thy ſelfe in the war againſt the Lambe; for God forbid that we ſhould glory in any thing, ſave in the <hi>Croſſe of Chriſt,</hi> or delight in any other increaſe, but the <hi>increaſe of grace,</hi> for we have need of patience, that after we have done the will of God, we might receive the promiſe, <hi>Heb.</hi> 10, 36. ſo here thou art found in thy falſification, wreſting and twining of Scripture (to thy ows deſtruction) againſt the innocent.</p>
+            <pb n="11" facs="tcp:32783:6"/>
+            <p> Pr. <hi>But let me tell thee, that I doe not, nor ſhall not at all beleeve you in this matter, though you trumpet out your own prayſes, and bla<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e your owne perfections never ſo much.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Man, when we trumpet out our own prayſes, and blaxe out our own perfections, then you may have cauſe not to beleeve us, and though you ſeem to lay it upon us, yet we are cleave; and if thou affirme it. thou affirmeth a lye, as thou haſt done many, as is proved already; for there is nothing of us, to wit, of fleſh and blood, that's prayſe-worthy; but we prayſe the Lord, the <hi>the perfector and perfe<g ref="char:EOLhyphen"/>ction of his Saints</hi> in whom is all fulneſſe, unto whom we fly for teachings, which makes you ſeers and diviners of our dayes in ſuch a rage, that forging lyes is become your greateſt refuge, who per<g ref="char:EOLhyphen"/>ſwades people that we truſt in our ſelves, and ſelfe righteouſneſſe; which things we utterly deteſt, and they remain for thee and you all to prove. And as <hi>for deſpiſing of others,</hi> that is falſe, for we own all Creatures as they are in themſelves (Creatures, or Veſſells) but the ſeeds is at enmity (mind that) for the Creation of God, we have no cauſe to hate, but the mover of cedition in the ground, take notice of that.</p>
+            <p>Pr. <hi>As for that Scripture thou cites,</hi> Luke 18.9.10. <hi>and bids we conſider the ſcope of the Parable, and we cannot but ſee our ſelves punctually to reſemble the Phariſees.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Here thou haſt reckoned us up with the Phariſee, and ſaith, we reſemble him; here I charge thee with another lye, and it re<g ref="char:EOLhyphen"/>mains for thee to prove which of us did, or doth boaſt in our pray<g ref="char:EOLhyphen"/>ers <hi>of Faſtings, paying fo Tythos, and that we were not like other men;</hi> but we are bold to declare, that our regeneration is not by our own merits, nor our ſalvation by works of righteouſnes which we have done; but according to his mercy; he hath ſaved us by the waſhing of regeneration, and renewing of the holy Ghoſt, <hi>Tit.</hi> 3.5. ſo thy accuſations touches us not, but ſhall ſtand againſt you (with <hi>Luke</hi> 18.9.10. and all other Scripture) for y<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e are out of the rule of Scripture, both under the Law and Goſpel, as eaſily may be proved.</p>
+            <p>Pr. <hi>Couldeſt thou, or any of you, but convince me of this, that they are juſt that juſtifie themſelves, then I ſhould ſide, and ſay with you and the Papiſts your patterns in this, and the moſt of your opinions, that perfection is not onely attainable in this life; but that it is the eaſieſt thing in the world; but how hard will it be to prove this principle</hi>
+            </p>
+            <pb n="12" facs="tcp:32783:7"/>
+            <p> 
+               <hi>Anſ.</hi> I doe not ſtrive to convince any of their juſtneſſe that ju<g ref="char:EOLhyphen"/>ſtifie themſelves, for I deny them that ſo doth, and the Papiſts to be our patternes: but whether you will ſide with us, or not; thou and thy fellows muſt be forced to take the Popes Law for a prop to your Goſpel, for by that Law you are guarded; therefore let thine accuſa<g ref="char:EOLhyphen"/>tion return home again, and take the Papiſts for thy patternes (thou and you who tradeth in their ſhops;) and as <hi>for perfections to be at<g ref="char:EOLhyphen"/>tainable in this life;</hi> here thou ſhews forth thy ignorance; and that thou art not called into the miniſtry of Chriſt. (Reader mark) per<g ref="char:EOLhyphen"/>mand of God to <hi>Abraham, Gen.</hi> 17.1. <hi>Deut.</hi> 18.13. <hi>Iob</hi> 1.8. &amp; 8.20. <hi>Pſal</hi> 37.37. It was the Doctrine of the Apoſtle. 2 <hi>Cor.</hi> 13.9.11. &amp; in <hi>Phil.</hi> 3.15. It was for that end that the Scripture was recorded, 2 <hi>Tim.</hi> 3.17. it was the Prayer of the Apoſtle for the Chruch, <hi>Heb.</hi> 13.21.1 <hi>Pet</hi> 5.10. <hi>Heb.</hi> 6.1. yea, the whole end of the Miniſtre, <hi>Epheſ.</hi> 4.11.12. thou that denyes perfection, denies thy gift, and the power of the Lord. For ſhame, for what end doſt thou Preach? it is evident hereby, that you keep people alwayes learning, and ne<g ref="char:EOLhyphen"/>ver able to come to the knowledge of the truth which maketh free, <hi>Iohn</hi> 8.32. And now, <hi>that it is the eaſieſt thing in the world,</hi> I ſay, in <hi>perfection</hi> is eaſe, peace, and joy in the holy Ghoſt, and no treaſure is to be compared to it, or any meaſure of it; and you that are not growing towards it, knows nothing of redemption: And thou that perſwads people, <hi>that perfection is not to be attained unto,</hi> here, keeps people alwayes in the bondage of corruction, for it is hard to be attained unto, which is the cauſe why many ſtumble.</p>
+            <p>Pr. <hi>Was is not Chriſts peculiar prerogative to be without ſin?</hi> Heb. 4 15.1 Pet. 2.22. 1 John 3.5. <hi>he did challenge the world,</hi> Ioh. 8 46. <hi>and could abide the bittereſt brunts of the Devill, becauſe there was nothing in him for Satan to worke upon,</hi> Iohn 14.30. <hi>but who be<g ref="char:EOLhyphen"/>ſides himſelfe could ever ſay ſo?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> I grant it was, and is, the proper freedom of the head, and alſo of the members of that head, and theſe Scriptures which thou haſt cited, I own, compared with <hi>Heb.</hi> 2.18. and that none could ever truely ſay ſo of themſelves, is granted alſo. But this doth not diſanull <hi>perfection;</hi> and thou that doth deſpiſe it, and pleads againſt it, pleads againſt the one offering againſt the Prayer of Chriſt, and priviledge of the Saints (<hi>Iohn</hi> 23.14.) and againſt the whole end of
+<pb n="13" facs="tcp:32783:7"/>the Miniſtry, <hi>Epheſ.</hi> 4.12. and againſt the worke of a Miniſter, <hi>Col.</hi> 1.28.29. ſo man, I exhort thee be ware what thou doſt, leaſt thou repent when it is too late; <hi>for as the tree falls, ſo it lyes, and as death ſeazes upon a man, ſo judgement will find him out; and every man ſhall be judged according to the deeds done in his body; and the righteous hath hope in his death: but the wicked ſhall riſe to the re<g ref="char:EOLhyphen"/>ſurrection of condemnation.</hi>
+            </p>
+            <p>Pr. Paul, <hi>after a long and proſperous progreſſe in ſanctification, mortification, and vivification, was not aſhamed to ſpeak the truth,</hi> Rom. 7.11.18.24. <hi>but who can beare witneſſe of your humili<g ref="char:EOLhyphen"/>ation in this manner; nay, the contrary is contemptuouſly, and impu<g ref="char:EOLhyphen"/>dently boaſted of by you.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Here thou art ſeen to be ignorant of us, ſpeaking evill of things thou knows not; for the Lord is our witnes, whether we have not groaned under the bondage of corruption, or not; and cryed unto him which is onely able, to be delivered from the body of ſin. And the Apoſtles condition we own, knowing that in our fleſh dwel<g ref="char:EOLhyphen"/>leth no good thing which is of its own nature, although thou haſt thus judged of us; nevertheleſſe, we have a treaſure hid in carthen veſſels, which you (with all you doe) cannot deprive us of, which is our joy. But to proceed, <hi>Paul</hi> did not continue in ſin, he ſaid, <hi>God forbid, Rom</hi> 1.2 &amp;c. they could not live any longer in ſin, they were planted together in the likenes of his death; See what he dyed unto, <hi>Rom.</hi> 6.10. and although <hi>Paul</hi> did complain <hi>of the body of ſin, Rom.</hi> 7. yet conſider what teſtimony he gives in <hi>Rom.</hi> 8.1.2.3. &amp; 37. <hi>verſes;</hi> take notice <hi>of Rom</hi> 8.8. thou that ſtands up to make voyd the comming <hi>of the Son of God,</hi> by pleading againſt <hi>perfection,</hi> taking the Apoſtles condition in his <hi>imperfection,</hi> to pleade for the Devills Kingdom withall; but leaves his after condition, in <hi>Rom.</hi> 8.1.2. as though the Apoſtle all his life time had been ſubject to bon<g ref="char:EOLhyphen"/>dage. Oh ſhameleſſe man, who for covetous ends would have people kept from the teachings of Gods Spirit which ſanctifieth. I ſay, The Lord rebuke thee.</p>
+            <p>Pr. <hi>Is your condition then with Chriſt, and not with the Apoſtle? O horrible Blaſphemy! are you finite creatures equall with the infinite Creator? doe not all naturall, as well as ſpirituall light, abhor this?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Here thou askes a queſtion; I ſay, our condition is with <hi>Paul</hi> in the meaſure of the growth, and with Chriſt according to
+<pb n="14" facs="tcp:32783:8"/>the meaſure unto which we are grown; and although we be finite creatures, as the Apoſtles was; yet we can truely ſay, as we are faith<g ref="char:EOLhyphen"/>full, that we are partakers of the divine nature, which worketh, and leadeth us unto the righteouſnes of God, and out of the Fall, and out of the Curſe, into the Son-ſhip, to <hi>receive the ſpirit of adoption;</hi> and ſo we are made members <hi>of</hi> his body, <hi>of</hi> his fleſh, and <hi>of</hi> his bones, <hi>Epheſ.</hi> 5.30. and is not aſhamed of the Doctrine of the Apo<g ref="char:EOLhyphen"/>ſtle, <hi>Epheſ.</hi> 2.5.6. (mark) thou that denyes <hi>perfection,</hi> and <hi>equallity with Chriſt;</hi> ſhall the members deny the head? oh horrible! if this be thy Knowledge, no wonder if thou rage with thy naturall light, (for ſpirituall light thou art ignorant of) which was the Apoſtles meſſage 1 <hi>Iohn</hi> 1.5. <hi>Acts</hi> 26.18. which meſſage is trampled un<g ref="char:EOLhyphen"/>der Foot by you that hath your Logicke: but that any thing which is of the fleſh, or corrupt will of man, is equall with God, that we deny, and ſo is cleare from horrible blaſphemy.</p>
+            <p>Pr. <hi>Thou tells me, I call Divine light, naturall; but if this be thy Divine light? I muſt tell thee, I call it not naturall light, but Dia<g ref="char:EOLhyphen"/>bolicall deluſion, even the glowings of Satan, transforming him<g ref="char:EOLhyphen"/>ſelfe into an</hi> Angell <hi>of light.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> I have told thee the truth, though thou call it what thou will; and ſeeing thou art given over to beleeve lyes; and not onely ſo, but a maintainer of that worke thy ſelfe; therefore thou calls light, darkneſſe, and darkneſſe, light. And if thou call that Di<g ref="char:EOLhyphen"/>abolicall deluſion, which I call Divine light; I muſt tell thee, thou art a blaſphemer, wreſt and twine what way thou can; for I call no other light, the Divine light, but that ſpoken of <hi>Luke</hi> 2.31. <hi>Iohn</hi> 1.9. &amp; 3.20. &amp; 5.35. &amp; 8.12. &amp; 12.36.46. <hi>Acts</hi> 26.18. <hi>Epheſ.</hi> 5.13. conſider this, thou that would put out the Sun, and have all to walke in the light of thy, (and your) flame, which by your falne wiſome is invented, or kindled; thou that hates this light, which we own, is in darkneſſe, and ſo in Diabolicall deluſion, acted by the ſpirit of Satan in the transfiguration; having a name of that which you are not, to wit, the Miniſters of Chriſt; for you are found in <hi>Kains, Corahs</hi> and <hi>Balaams</hi> way, in envie, reſifting the ſpirit, gain<g ref="char:EOLhyphen"/>ſaying the truth, loving the wages of unrighteouſnes, pleading for fin and imperfection, and ſo, no Miniſters of Jeſus Chriſt, but of Anti-chriſt: For the Miniſter of Jeſus Chriſt, ſaid, <hi>If we walke in the light, as he is in the light, then have we fellowſhip one with another,
+<pb n="15" facs="tcp:32783:8"/>and the blood of Ieſus Chriſt his Son, cleanſeth us from all ſins,</hi> (mark) <hi>if we dwell, or walke in the light,</hi> 1 John 1.7. <hi>the light gives the knowledge of God,</hi> 2 Cor. 4.6, <hi>the light is Chriſt Ieſus,</hi> John 8.12. &amp; 12.36. &amp; 46. <hi>and Chriſt is the power of God,</hi> 1 Cor. 1.24. <hi>and the power of God in Divine,</hi> 2 Pet. 1.3. <hi>by which Divine power, we are made partakers of the Divine nature,</hi> 2 Pet. 1.4. which nature be<g ref="char:EOLhyphen"/>ing enjoyed, leads into an equallity with Chriſt according to mea<g ref="char:EOLhyphen"/>ſure in the regeneration: So man, let thine own weapons turn edge againſt thee.</p>
+            <p>Pr. <hi>But becauſe you own not the Scripture to be the Word of God, you are not afraid to abuſe them, and miſapply them at your pleaſure, both in this particular, and all other, that Satan ſuggeſts unto you.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> The Scriptures we own, to be what they are, to wit, the Words of God, <hi>Deut.</hi> 11.18. <hi>&amp;c.</hi> 12.18. &amp;c 17.9. <hi>Prov.</hi> 30.6. <hi>Iſay</hi> 31.2. <hi>I<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r.</hi> 44.28. <hi>Micah</hi> 2.7. &amp; 9. and a teſtification, 10.5. 39. a Declaration, <hi>Luke</hi> 1.1. a Treatiſe, <hi>Acts</hi> 1.1. and the words of Chriſt, <hi>Marth.</hi> 24.35. <hi>Marke</hi> 8.38. <hi>Luke</hi> 4.22. <hi>Iohn</hi> 8.47. 1 <hi>Tim.</hi> 6.3 <hi>Rev.</hi> 1.3. and theſe words we own (which was inſpired by the ſpirit of life Into the Saints) to be a Declaration of the word of life, which is the Word of God; and what art thou, that thou would have us to pervert the Scriptures; thou ſhews thy ſelfe igno<g ref="char:EOLhyphen"/>rant of the Word of the Lord, which would have the Scriptures to be the Word of the Lord, contrary to theſe Scriptures, <hi>Gen</hi> 15.1. <hi>Num.</hi> 22.18. <hi>Dout.</hi> 30.14.1 <hi>Sam.</hi> 3.1. <hi>Pſal</hi> 33.6. &amp; 107.10. &amp; 119.89. <hi>Ier.</hi> 2.1. &amp; 7.1. &amp; 33.1. <hi>Ezek.</hi> 1.3. &amp;.6.1. &amp; 7.1. <hi>Deu.</hi> 9.2. <hi>Ier.</hi> 23.29. <hi>Iohn</hi> 1.1. &amp; 14 the World ſanctifieth, 1 <hi>Tim.</hi> 4.5. it is called his, or him, <hi>Heb.</hi> 4.12.13, ſee <hi>Heb.</hi> 11.3. <hi>Iames</hi> 1.18. at. 22.1 <hi>Pet.</hi> 1.23.25. <hi>Rev.</hi> 19.13 &amp; (mark) the a of <hi>Pet.</hi> 3.5.6.7. oh yee Prieſts, and others, who calls the Scriptures the <hi>Word of God,</hi> here you are found the abuſers, and miſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>applyars of the Scriptures; I refer the Reader to theſe places above cited, if it be not ſo, and th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſuggeſtions of Satan to be in the Phariſaicall grave like Miniſters of this, and other nations, who thus perverts the Scriptures, calling the Scripture that, which they call not themſelves, but teſtifieth againſt, as is proved. So <hi>Simon Atkinſou,</hi> thou art caught in the net, that thou haſt layd for others, and the day is over thee and you all.</p>
+            <p>Pr. <hi>As for further inſtance, how ignorantly, impudently, &amp;c. haſt thou wreſted the words of the Prophets, Chriſt, and of his Apoſtles, to
+<pb n="16" facs="tcp:32783:9"/>make odious his moſt faithfull, pious, painfull and profitable Miniſters that rule well and labours in the word and doctrine, who are therefore of men to be counted worthy of double honour,</hi> 1 Tim. 5.17. <hi>upon whom thou would powre double contempt and diſgrace for their labour.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Its well that theſe Scriptures, and your practiſes is both ap<g ref="char:EOLhyphen"/>parant, we ſhall lay the one to the other, and the Reader ſhall judge, if he will, whether I have wieſted the words of the Prophets, Chriſt, and the Apoſtles by applying the Prieſts practice to them, yea. or my; Reader, mind theſe Scriptures, <hi>I ſay</hi> 56.9.10.11. <hi>Ier.</hi> 5 30.31. <hi>Ezek.</hi> 34. to the end. <hi>Hoſ.</hi> 6.9. <hi>Micah</hi> 3.11. <hi>Mat.</hi> 23. from 4 to the end. 2 <hi>Tim.</hi> 3.1 to the 10. ver. 2 <hi>Pet.</hi> 1.2.3. &amp; 14.15. &amp; 17. <hi>Inde</hi> 11. and now deale honeſtly with theſe places, and ſee it the Prieſts of our times be not in the ſame ſteps. And where as thou ſaith it is to make you odious; I ſay, I would you were diſcovered to all, then would your odiouſneſſe appear to them, as well as it doth to us, and your lambe-like diſcipline they would alſo ſee to be of no profit, but for your own bellies, and your faithſulneſſe and painful<g ref="char:EOLhyphen"/>neſſe for that end: For which end, you ſtrive to keep people from the new Covenant, <hi>Fleb.</hi> 8.9.10.11. and from the light that giveth the Knowledge of God, 2 <hi>Cor.</hi> 4.6.7. and from the anoynting within, 1 <hi>Iohn</hi> 2.27. I ſay, you keep people from the Kingdome of God within them, <hi>Luke</hi> 17.21. in the dregs of the old Covenant, miked with a new name, or ſhadow of Chriſtianity, held in, and by, the coverous envious boaſting principle: And here you keep people in ſlavery, to honour you own rules, as lords over them. You are not like the elders, that was of old ſpoken of, 1 <hi>Tim</hi> 5.17. they had not recorded that they had the tenth <hi>of mens increaſe,</hi> as of goods; and ground, or ſued men as Law, or caſt them into Priſon, if they could not pay them: neither did they caſt men in Priſon, for asking them a queſtion, as you have done, and threatneth: and here thou and you, and powering diſgrace upon your ſelves, and your Mini<g ref="char:EOLhyphen"/>ſtry, and I am clear from contemning, or falſly accuſing you, for your fruit <hi>makes you manifeſt,</hi> and they are blind that doth not ſee your loven.</p>
+            <p>Pr. <hi>They turn many ſoules to righteouſneſſe, and ſhall ſhine as ſtars in the firmament for even and even,</hi> Dan. 12.3. <hi>which the envious one in you, indeavours by you, to deprive them of their preſent comfort, though he cannot keep from them their future Corwne.</hi>
+            </p>
+            <pb n="17" facs="tcp:32783:9"/>
+            <p> 
+               <hi>Anſ.</hi> How long wilt thou goe about to cover thy, and your skirts, as though we were ignorant of your untempered morrer; nay man, know thou, that we have followed you (in a blind ceale) with faſting, mourning, and prayers, and we are well experienced what profit is reaped from you, even open war at the Aſſizes, and Seſſions, if we put not in at your mouthes, yea, Juſtices Warrants (as you call them) Bayliffs Priſons, Flnes; and if we ſpeak to you in the <hi>feare of the Lord,</hi> you cry up your weapons that props up your Goſpel, as Church<g ref="char:EOLhyphen"/>wardens, Stocks, Juſtices Warrants (as you call them,) then a Fine, and ſo long Impriſonment; yea, double worſe then Queen <hi>Maries</hi> Jeſuiticall Prieſt-hood for Perſecution. Therefore, I ſay, <hi>take heed,</hi> leaft in ſtead of ſhining, your cry be not woe &amp; alas for evermore. So <hi>S. A.</hi> thou art found far unlike them ſpoken of <hi>Dan.</hi> 12.3. its in vain for thee to borrow theſe expreſſions to cover that nature in which thou, with thy Fellows, liveſt: your nakednes appears under this covering, becauſe its not your own, who is found out of Gods wiſdom in lyes and falſe accuſations, herein is envy known: And as <hi>for depriving you of your preſent comfort;</hi> that is ut<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erly falſe except you call Tythes, and Augmentations, and ſet ſlypends your preſent comfort, which you ſtrive after, as though <hi>gain were godlines.</hi> So let the Reader take notice, that we doe not harbour an envious ſpirit, but we ſpeak the truth by the ſpirit of truth, which hath blown its Trumpet againſt the ſeed of the Serpent, and the day is ſpringing over the head of all your Aſſirian Army, which fills the Countries.</p>
+            <p>Pr. <hi>Theſe are able, through God, to caſt down the ſtrong holds of the Devil, in the hearts of the children of men, and to convince, through the ſpirit, of ſin, of righteouſnes, and judgement, whom the Devill (im<g ref="char:EOLhyphen"/>patient of the down. fall of his Kingdom) rageth in you moſt furiouſly.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> They that are ſpoken of <hi>Dan.</hi> 12.3. indeed is able to doe theſe things thou here ſpeaks of: but ye are not like them, thou and thy Fellows, which denyes the light, the manifeſter of tranſgreſſion. <hi>Eph.</hi> 5.13. and denies <hi>perfection,</hi> and an <hi>equality with the head of the body;</hi> here thou ſhews, that ye are not members and that you do not turn people to righteouſnes, <hi>for he that doth no righteouſnes is not of God,</hi> 1 John 3.10. <hi>but he that doth righteouſnes is born of God,</hi> 1 John 2.29. <hi>and ſo a Son, and an Heir,</hi> Gal. 4.5 6 7. <hi>and ſo a member,</hi> Eph. 5.30. and thou that denies and equality, and pleads againſt it, rents the members from the head and ſo is not wiſe: and the ſpirit of truth
+<pb n="18" facs="tcp:32783:10"/>in us, beats teſtimony unto thoſe, <hi>Dan.</hi> 12.3. but againſt you leve<g ref="char:EOLhyphen"/>ners, lyers, and ſlanderers, men in whom the Devilll rageth, as in <hi>Do<g ref="char:EOLhyphen"/>metrius</hi> of old, and the reſt <hi>of the Craftſ-men,</hi> who gained by their Trade, as you doe by yours. And now thou would make people be<g ref="char:EOLhyphen"/>leeve that <hi>the Kingdom of Satan, and his rage is in, and amongſt us!</hi> Reader (mark) I appeal to thee whether the Devill rage in the per<g ref="char:EOLhyphen"/>ſecutor, or in the perſecuted; in them that doth impriſon for a word; or in them that is impriſoned; in them that ſuffers the ſpoyling of their goods, or in them that takes away mens Cows, Horſes, Sheep, Pots, Kettles, or other houſhold-ſtuffe from them, for whom they do not work: ſo Reader, judge even as thou would be judged of, between us and the Prieſts: ſo <hi>S. A.</hi> I charge thee, and the reſt of thy Fun<g ref="char:EOLhyphen"/>ction (whoſe Fruits makes you manifeſt) to be the agents of Satan, and Miniſters of his rage, and you fight for his Kingdom, to wit, <hi>for imperfection,</hi> and a continuance in ſin (contrary to <hi>Rom.</hi> 6.1.2.) ſo thine accuſation turns home again to thee, and thy Fellows, who is found in the guilt thereof.</p>
+            <p>Pr. <hi>And truely you doe approve your ſelves to be his moſt faithful Facters, and the potent promoters of his intereſt that ever he imployed in any age that I have Read of; well may you look for liberall wages for your unwearied working, &amp;c. you run at his book, when God bids you not, ſends you not &amp;c. you compaſſe many Countries to make proſelites, &amp;c.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Here thou blind man cannot get into <hi>Lots</hi> houſe to appre<g ref="char:EOLhyphen"/>hend the meſſenger, (to wit, that of God in the conſciences of men) but thou art groping in the dark, and lifting up thy lying voyce in the ſtreets of <hi>Sodom,</hi> take notice of that; and I appeale to the conſi<g ref="char:EOLhyphen"/>derate Reader, whether they that plead for ſin, and liveth in it, be not the potent promoters, or mighty advancers of Satans Kingdom, or not? ſo here <hi>S. A.</hi> thou and you Prieſts are <hi>found the faithfull Factors,</hi> or men intereſted in helliſh wars, who counts it horrible to hold <hi>perfection and equality with the head:</hi> And as <hi>for looking for Wages,</hi> thou that art in <hi>Balaams.</hi> way, muſt look for that, who pleads for the Kingdom of darkneſſe, <hi>viz.</hi> imperfection, &amp;c, contrary to 2 <hi>Cor.</hi> 13.9. &amp; 11. for that which keepeth <hi>from perfection,</hi> is ſin; and I muſt tell thee, that ſo long as you have put in at your mouthes, you will not be weary; but ſeaſe wages, and you tyre, as is largely ſeen; but we run not at the <hi>book of Satan,</hi> but by the Commiſſion and permiſſion of our God (even the living God) to turne people
+<pb n="19" facs="tcp:32783:10"/>from darknes to the light, a <hi>Cor.</hi> 4.6. which ſhines in their hearts, which leads out of, and preſerves from the motions of tranſgreſſions, as it is minded and obeyed; and for that end doe we labour in tra<g ref="char:EOLhyphen"/>vell, as the Apoſtles did; and we are aſhamed to call them the Mini<g ref="char:EOLhyphen"/>ſters of Chriſt, who is ſettled Maſters in their Pariſhes, at eaſe in the fleſh (as a hog in the ſtall;) but if you be Miniſters, <hi>Goe reach all Nations,</hi> and let the Heathen (as you call them) heare your Meſ<g ref="char:EOLhyphen"/>ſage, If it be the ſame that <hi>Iohns</hi> was, 1 Iohn 1.5.6.7. or els I con<g ref="char:EOLhyphen"/>clude you juſtly to be idle drones, jumbling in your notions amongſt your Natives; ſo thy falſe accuſations touches us not, but is retorted into thine own budget.</p>
+            <p>Pr. And <hi>when they are made, they are two-fold more the, &amp;c. having onely changed ſome of their impiety, into deeper hypocriſie, and all their Religion into damnable Haereſie.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> The Children of hell is lyars, covetous, &amp;c. which marks is ſtamped upon thee, and thy generation of Prieſts <hi>S. A.</hi> but that we make people two, fold more the children of hell then before, is ut<g ref="char:EOLhyphen"/>terly falſe; I appeale to every mans Conſcience, whether he that was a lyar, a ſwearer, a whoremunger, and an ignorant perſon, &amp;c. being changed from theſe things into moderation? whether he be made two-fold more the child of hel then before, or not? For this I teſtifie, that we have no <hi>fellowſhip with the unfruitfull (workers, and) works of darknes;</hi> but them we owne, who is changed by the renewing of their minds. And as for changing impiety into hypocriſie (as above) in falſe, and I leave it for thee to prove wherein we are <hi>Hareticks, or hypocrytes;</hi> for we are clear from all that thou haſt layd downs in this Paper againſt us, and it ſhall ſtand for your own condition, im<g ref="char:EOLhyphen"/>piety and hypocriſie, both apparantly brought forth, as in moſt Goales, Courts, Aſſizes, Seſſions, Correction-houſes, &amp;c. in this na<g ref="char:EOLhyphen"/>tion; ſo here you are found the impious hypocrytes, who would be called Miniſters of Chriſt, but is found biters and devourers, take notice of that, ye hereticks, who calls it Hereſie and Popery (to Preach the light to be within, which gives the Knowledge of God) here you contradict the Scriptures, <hi>Iohn</hi> 8.12. <hi>Iohn</hi> 17.21.2 <hi>Cor.</hi> 4.6. ſo hereſie ſhall ſtand for your own lot in the end of time.</p>
+            <p>Pr. <hi>How clearly is this ſeen of all, that have their Eyes open, is diſcorne between good and evill?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> If thy ſences were exerciſed to diſcerne between good and
+<pb n="20" facs="tcp:32783:11"/>evill, then would thou be aſhamed to ſay, that we made people two-fold more the children of hell, then before; but that it might be made manifeſt that the god of this world hath blinded thine Eyes, therefore haſt thou ſpoken.</p>
+            <p>Pr. <hi>Were not theſe times fore-ſeen, and the danger of thoſe dayes fore-told by the Lord himſelfe, and his Apoſtles,</hi> Mat. 24.24.25. 2 Theſ. 2.9.10.11.12.1 Theſ. 4.1.2.3.4.2 Tim. 3. to 6.2 Pet. 2. 12.1 John 4.1.2.3. Iude 8. <hi>conſider them ſeriouſly, and compare your own conditions with them imparſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ially?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Theſe things were indeed fore-told, which began in the dayes of the Apoſtles, as the Reader may take notice; but it ſeems thou art blind concerning the times. Reader, mark the ignorance of this man, who ſaith, theſe is the times (as above,) Chriſt ſaid, Falſe Prophets ſhould come, <hi>Mat.</hi> 24.11. &amp; 24.25. and by their fruits they ſhoud be known, <hi>Mat.</hi> 7.16.20. and <hi>Iohn,</hi> before his deceaſe, he ſaid, they were come; ſee 1 <hi>Iohn</hi> 2 18 19. ſaith he, <hi>it is the laſt times,</hi> (mark) <hi>it is;</hi> and, ſaith the Angel, <hi>all Nations have drunke, &amp;c.</hi> (mark <hi>have</hi>) <hi>have drunke,</hi> Rev. 18.3. here you may ſee your ignorance, who ſaith, Chriſt ſaid <hi>falſe Prophets</hi> ſhould come, and now it is the laſt times; Chriſt ſaid, they ſhould come; <hi>Iohn</hi> ſaid, it was the laſt time then, and there was many Anti-Chriſts then; ſo let <hi>Iohn</hi> beare teſtimony againſt you: And as for theſe Scriptures that thou haſt cited, they ſhall ſtand recorded for a witneſſe againſt all hireling Prieſts, who take pleaſure in the wages of unrighteouſnes, whoſe working is after the fleſh for <hi>fat benefices,</hi> ſuceeding the grievous Wolves, which ſpared not the <hi>Flocke,</hi> whoſe comming is after the power of Satan <hi>the Prince of darkneſſe,</hi> with inticing words of man: wiſdom feeding itching ears, living in fulnes, ſuing and halling to Priſons, lying, and falſly accuſing, as I have proved upon you; and ſo <hi>S. A.</hi> thou art in the ſtrong deluſion, beleeving lyes, as that we depend upon merits, as ſelfe-righteouſnes, or ſelfe-performances, ſelfe-juſtification, and the like: And as for 2 <hi>Tim.</hi> 3. let us ſee whe<g ref="char:EOLhyphen"/>ther we, or the Prieſts be ſuch as is there <hi>ſpoken of, as ſelfe, lovers;</hi> the Prieſts for their back and belly ſues poor people at Law, and cau<g ref="char:EOLhyphen"/>ſes ſome to travell 400. miles; and ſome is impriſoned to death, and ſome ſuffers ſo (by that generation <hi>of Balck-coats</hi>) that they have not had a Pan, nor a Kettle leſt; I ſay, ſuch is ſelfe-lovers, and cove<g ref="char:EOLhyphen"/>tous men, taking three times double that which they challenge at
+<pb n="21" facs="tcp:32783:11"/>firſt, not only trebble dammage, but trebble ſummes, this is the wa<g ref="char:EOLhyphen"/>ges of unrighteouſnes, worſe then <hi>Balaam,</hi> 2 <hi>Pet.</hi> 2.15. and they are boaſters, beyond their meaſures, which is out of the Prophets life, Chriſts life, and the Apoſtles life, in a proud covetous life (as above) and yet ſpeaking of the Prophets, Chriſt, and the Apoſtles words, (in pretence of doctrine) puſhing one another from their Benefices, as Beaſts puſh from the F other; unſtable ſoules, who trades with other mens lines, and they are proud, that conſents not unto the words of our Lord Jeſus Chriſt, 1 <hi>Tim.</hi> 6.3.4. who ſaid, ſweare not at all; be not ye called of men, <hi>Maſter;</hi> ſue no man at Law; and freely ye have received, freely give, &amp;c. but the Prieſts of <hi>England,</hi> reſiſts his Doctrine herein; So <hi>(S. A.)</hi> they (and your) ſpirits is try<g ref="char:EOLhyphen"/>ed and ſeen: And I have conſidered theſe Scriptures which thou haſt cited, and concluded thee in the path of rebellion, denying Chriſt to be come in the fleſh, as in the veſſels of his Sons and Daughters, to perfect and deliver from ſin, and from corruption in this life; ſo man, deſiſt from deceiving, leaſt thou periſh.</p>
+            <p>Pr. <hi>This time ſeemeth to me to be emblematized to the Prophet in the Viſion,</hi> Zach. 3.12. <hi>it is the diſcovery of the ſtate of a Church in the time of Reformation, &amp;c. but the reſiſters ſhall reape rebuke for op<g ref="char:EOLhyphen"/>poſing the faithful Miniſters, whom he hath rayſed up to reforme his Houſe in theſe dayes, and cloathed with a ſpirit of light, zeale, and power, more then in many ages before, which that you cannot ſee, its becauſe blindneſſe is fallen upon you.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Here is a ſnare for thy Feet! for our High Prieſt is riſen, who was the ſubſtance of <hi>Zachariahs</hi> Viſion, Chriſt Ieſus the light, whoſe Prieſthood we own, who hath put an end to all you change<g ref="char:EOLhyphen"/>able Prieſts that receives Tythes, <hi>Heb.</hi> 7.12. and his Prieſt-hood you (Tythe-mongers) reſiſts, becauſe you love the wages of un<g ref="char:EOLhyphen"/>righteouſneſſe, ſuing at Law, and as it were fights for your bel<g ref="char:EOLhyphen"/>lies, and ſo is found evill beaſts, ſlow-bellies, who can never have enough, <hi>I ſay</hi> 56.11. but the Miniſtration of Chriſt Ieſus is free, without money or price, <hi>Iſay</hi> 55.1. <hi>Mat.</hi> 10.8. <hi>Rev.</hi> 22.7. and you are found to be the reſiſters of this High-Prieſt, and his Do<g ref="char:EOLhyphen"/>ctrine, and Miniſtry, <hi>viz.</hi> the Miniſtre of the ſpirit of God. And as for oppoſing Gods Faithfull Miniſters that is falſe, for we own them that is ſuch with our ſoules; but we deny the reliques of Papiſtry, by which (you) reformers is up-held; and all ſuch who ſaith, they
+<pb n="22" facs="tcp:32783:12"/>are clothed with the ſpirit of holines, light Leale, and power, we deny, when they are found in <hi>Kains, Corahs, Balaams</hi> ſteps, acted by a perſecuting ſpirit, haters of the light, in a Zeale without Know<g ref="char:EOLhyphen"/>ledge, clothed with the power of darkneſſe; by which power, you are ſuing at Law, caſting into holes and dungeons, and pillaging poor people Houſes <hi>(Cavelleer-like)</hi> and ſo is found as a Troupe of Robbers, <hi>Hoſ.</hi> 6.9. ſo the ſpirit of holines is not your clothing, for you execed your Fore-Fathers, the Scribes and Phasiſees, (or the Leſuits in Queen <hi>Maries</hi> dayes) for perſecuting: Here you are found to be filthy Dreamers, ſpeaking the Viſions of your owne hearts, ſtudying, invented for money, your Church is your Shop, your Sabbath is your Market day, which makes me cry, <hi>Oh miſera<g ref="char:EOLhyphen"/>ble Reformers, and Reformation!</hi> for ſhame deſiſt thy leven.</p>
+            <p>Pr. <hi>You are given up to beleeve lyes, for that you received not the truth in the love of at, nor liked to retain God in your Knowledge; therefore are you given up to theſe ſtrong Deluſions.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> All lyes and lya<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s we doe deny, who ſaith they are Miniſters <hi>of</hi> Chriſt Ieſus, and yet <hi>makes a trade of the Letter;</hi> and we have received the truth in the love of it, which is the light and grace of God, <hi>Iohn</hi> 8.12. <hi>Tit.</hi> 2.11. which teacheth us to turn away from all covetous hirelings (who calls the Scripture their rule, and the tryar of ſpirits) but is neither guided by ſpirit, nor Scripture; I ſay, we are taught to turn from ſuch to the light, which ſhines in our hearts, and to the anoynting, 2 <hi>Cor.</hi> 4.6. 1 <hi>Iohn</hi> 2.26. by which we come to know God, and to retain him in our Knowledge, by whoſe power we are brought from darkneſſe, deluders, falſe Apoſtles; and from all them who are murmurers, complainers, walking, after their own luſts, whoſe mouthes ſpeaks great ſwelling words, having mens per<g ref="char:EOLhyphen"/>ſons in admiration, becauſe of advantage, <hi>Iude</hi> 16. who ſerves not our Lord Jeſus Chriſt, but their own bellies: ſo, <hi>S. A.</hi> thine accu<g ref="char:EOLhyphen"/>ſation ſtands recorded againſt thy ſlefo.</p>
+            <p>Pr. <hi>
+                  <g ref="char:V">Ʋ</g>under which you lye as ſpectieles of Divine wrath, which is come upon you, as heretofore upon the Iowes, for the like ſins; ſee</hi> 1 Theſ. 2.15.16. <hi>in which ſad caſe we are forced to leave you, not knowing whether ever the Lord will deliver you becauſe you deſpiſe our help, and ſets light by our couſells, and hates our inſtruction, your hearts being utterly, and deſperately hardened.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Reader, thou may take notice (how that the Apoſtle) in
+<pb n="23" facs="tcp:32783:12"/>this 1 <hi>Theſ.</hi> 2. <hi>who uſed not a cloake of covetonſnes,</hi> ver. 5. <hi>But la<g ref="char:EOLhyphen"/>boured and travelled, that he might not be chargoable,</hi> ver. 9. I ſay, <hi>take notice</hi> how he declares againſt the Jews, (in the 15.16. <hi>v</hi>) <hi>who kiled the Lord Ieſus Chriſt, and their own Prophets; and forbad the</hi> Apoſtles <hi>to ſpeake to the Goutiles:</hi> They had their Synagogues to ateep into, as the Prieſts of our time the Papiſts Maſle-houſes to creep into, not labouring in travell, as the Apoſtles did, (1 <hi>Theſ.</hi> 2. 8.9.10.11.) but deſpiſing them that doth, (Iewes-like, 1 <hi>Theſ.</hi> 2. 15.16.) but you are more ſubtile, holding up the firſt Prieſt-hoods maintenance, under the cloake of Goſpel maintenance, crying againſt them that <hi>ſpeaks</hi> what they have received freely: ſo the 1 <hi>Theſ.</hi> 2.15.16. is fulfilled amongſt you that is called of men <hi>Ma<g ref="char:EOLhyphen"/>ſters,</hi> ſtands praying in your (Maſle) houſes, or Synagognes, ſtriving to draw from the ſpirits teachings, &amp;c. but we are delivered from you, and <hi>knows</hi> your voyces to be the voyces of ſtrangers; and the Lord hath brought us into that one Fould, where he is the Shepherd alone, from the mouthes of all ye dumbe ſhepherds, which made a prey upon us; and ſo your help we deny, for you help into ſpirituall whoredom, but not out: And your counſell we deny, its invented traſh, and you are found, and proved lyars; but he is our Counſel<g ref="char:EOLhyphen"/>ler, whoſe name is called <hi>Wonderfull, Counſellor,</hi> Iſay 9.6. <hi>who is alſo our hope of glory,</hi> Col. 1.26.27. who is our Inſtructer, who faith, <hi>learne of me.</hi> Mat. 11.29. he hath turned unto us his pure Language, by <hi>taking</hi> away out ſtony hearts, for whoſe Inſtruction, we utterly deny all your leven, and you leveners, who faith, and doth not: ſo <hi>S.</hi> A. thou, and thy Fellows ſhall proceed no further undiſcovered to the Children of Light; and except you repent of your lewdneſſe, divine wrath will be the portion of your ſpir<g ref="char:EOLhyphen"/>tuall Witcheraft, wherein you <hi>keep</hi> people alwayes learning, and you your ſelves alwayes pleading againſt <hi>perfection.</hi> Oh ye Cater<g ref="char:EOLhyphen"/>pillars, and Graſſe-hoppers, how long will ye not cauſe to deſtroy the bloſſomes of the vine, which increaſeth dayly before your bloody devouring jawes, and envious inſtigations? Oh that ye would be warned!</p>
+            <p>Pr. <hi>And now to come to the concluſion of the Paper, which contains ſome ſimple Quaries, &amp;c. and why Quaries &amp;c.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> The end of my quaering was, and is for the clearing of the truth, and try all of thy ſpirit, whether patlent, or perverſe, and not
+<pb n="24" facs="tcp:32783:13"/>tempt thee with evill, as thou haſt enviouſly judged, but that by ſlighty cunning might be made manifeſt, as after will appear.</p>
+            <p>Pr. <hi>Thou ſhewes thy ſelfe without ſhame, to doe the works of thy Father, who was a tempter, &amp;c.</hi> Mat. 22.17.18. &amp; 19.3. &amp;c. Mar. 8.11. &amp; 9.14. Luke 10.25. John 8.56.</p>
+            <p>
+               <hi>Anſ.</hi> Here thou haſt eited ſome Scriptures, unto which thou compares me for asking of thee a queſtion. Ah thou judge of evill thoughts; the Scribes and Phariſees had better cauſe to call Chriſt a tempter, then thou hath to call me; for the knew from whence the Baptiſms of <hi>John</hi> was, better then they, as <hi>Mat.</hi> 21.25. and whoſe Son he was, better then they, <hi>Mat.</hi> 22.45. although he asked them; I ſay, they mocked him, and ſubtilly layd waite to intangle him; but I have not quaeried of thee in that nature, but for clearing of truth, becauſe of diverſity of judgements: ſo I deny them (that ſought to intangle Chriſt) to be my <hi>fore-fathers,</hi> although thy actions, with thy Fellows, cannot deny them to be your <hi>fore-fathers,</hi> as is proved; for innoceney will clears me, and the Lord be judge between thee and me.</p>
+            <p>Pr. <hi>And now, though I might ſend thee away as Chriſt did thy fore-fathers,</hi> Mat. 21.25. &amp; <hi>chap.</hi> 22.45. &amp;c. <hi>yet becauſe I know thee, and the reſt of thy generation to be leſſe ingonuous, and more impe<g ref="char:EOLhyphen"/>dent and apt to be lifted up upon light oceaſion; and leaſt my total ſilence ſhould afford any fuell for the fire of thy pride; I ſhal; ſhape thee ſuch anſwers as may poſſibly have no more wiſedome then thy Quaries, though probably more truth then thou quaries after.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> I have not asked after the nature of the Scribes and Pha<g ref="char:EOLhyphen"/>riſees to intangle thee (although thou hath intangled thy ſlefe) but for the cauſes afore ſaid have I quaered, and thou art found the im<g ref="char:EOLhyphen"/>metator of thoſe who firſt conſulted to lye, (<hi>Mat.</hi> 21.25.26.27.) and then anſwered plainly, <hi>ver.</hi> 31. &amp; 41. as thou haſt done, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s after will appeare: But firſt thou haſt made thy <hi>Kaine-like</hi> Jewiſh ſpirit manifeſt; Chriſt Jeſus asked many queſtions, although he knew; And the Apoſtle exhorted, <hi>to give a reaſon of the hope that was in them;</hi> but albeit thou pretend to be a Miniſter of Chriſt, yet thou art found unwilling to anſwer but is lifted up in contempt and falſe accuſations; for I tell thee, we know what we are, in good report, and bad; ſo, far be it from us to be lifted up upon any oc<g ref="char:EOLhyphen"/>eaſion. And as for the ſhape of thy Anſwers, in them thy wiſedome
+<pb n="25" facs="tcp:32783:13"/>is ſeen; and I appeale to the Reader, whether there be any truer thing to be quaried after, then the Kingdome of God, and the righteouſneſſe of it? and whether <hi>S. A.</hi> be not in felſe-exaltation, who ſaith, <hi>his anſwers hath more truth then I quarie after?</hi> for the Kingdome of God, and his righteouſneſſe, doe I quaerie after.</p>
+            <p>And now to come to the Anſwer of my Quaeties; the firſt Word of my firſt quaerie being tranſcribed <hi>(where? or what?)</hi>
+            </p>
+            <p>Quae. 1. <hi>Where? or what is the Kingdome? and where is it to be found? and what is the Righteouſneſſe of it?</hi>
+            </p>
+            <p>Pr. Anſ. <hi>Where it is? there is it to be found. This anſwer is juſt as wiſe as thy queſtion. But ſecondly, it is not amongſt you, though it is in and amongſt the Saints, I woane, the Kingdome of grace; for that ye are fallow from common grace, and from the means of ſpirituall grace; from Chriſt the King, and from the ſtand<g ref="char:EOLhyphen"/>ing Lawes of his Kingdoms; ſo that truely, you have need to inquire more ſeriouſly after is then you doe, for you are far from it, and quite out of the way to it.</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Here thou are found a vain jangler, mocking ſimplicity with thy fallen wiſedom, ſaying, <hi>the Kingdom of God is nothing, though in and amongſt the Saints;</hi> as though the Kingdom of God were in none but the Saints; (Reader mark) Chriſt ſaith to the Scribes and Phariſees, <hi>that the Kingdom of God was in them,</hi> although they were oppoſers of him, <hi>Luke</hi> 17.21. But, <hi>S. A.</hi> ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ilf it is not amongſt us <hi>viz.</hi> the Kingdom of grace, contrary to <hi>Tit.</hi> 2.11. <hi>Iohn</hi> 1.9.10. which grace and light, hath enlightened, and appeared unto all men, and it is both ſpirituall and common unto all in its appearance, <hi>Tit,</hi> 2.11. or elſe the world ſhould be excuſabl; but the light ſhin<g ref="char:EOLhyphen"/>ing, and the grace appearing, there is therefore now no cloake for ſin: But that we are fallen from this grace, is falſe; or from the means, or from Chriſt, or from his ſtanding Law, for this grace we own to be our Teacher, as the Apoſtle did, <hi>Tit.</hi> 2.12. (and not a hireling Prieſt, whoſe own the ſheep are not) and the means we own, <hi>viz.</hi> the giſt of God, Chriſt the light who is given unto the Gentiles, as well as unto the Jews, <hi>Iſay</hi> 49.6. and his Law we own, according to the Prophets and Apoſtles teſtimony, <hi>Ier.</hi> 31.33. <hi>Heb.</hi> 8.10. and theſe things we own, (and heare teſtimony of) to be within us, ſo that we need not goe forth, as ſaith Chriſt and his
+<pb n="26" facs="tcp:32783:14"/>Apoſtles, <hi>Mat.</hi> 24.26.1 <hi>Iohn</hi> 2.27. whoſe command we have learned, by his grace to be obedient unto; and he, <hi>viz.</hi> Chriſt Ieſus, is our way to the Kingdom, who ſaith, <hi>learne of me,</hi> and got not forth; he doth not ſay, learn of Hirelings, that makes bargales with their Pariſhioners for ſo much a yeare: but he ſaith, <hi>learne of me,</hi> and he is our High-Prieſt, whoſe lips preſerve our Knowledge. So I charge thee, <hi>8. A.</hi> to be a falſe-accuſer, and a lyar in this thy Anſwer to the firſt part of my qu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rie.</p>
+            <p>Pr. <hi>To the other part of thy quarie, viz.</hi> What is the righteouſnes of it? <hi>I anſwer, Not our own righteouſnes, which is imperfect;</hi> Iſa. 64.6. <hi>but the righteouſnes of Chriſt, by faith imputed, &amp;c.</hi> Phil. 3.9. <hi>this is the onely perfect righteouſneſſe in it ſelfe, though the righteouſneſsſe of Saints is alſo perfect in him; but not meritorious: his is the righ<g ref="char:EOLhyphen"/>teouſneſſe of God which is revealed from Faith to, &amp;c.</hi> Rom. 1.17. the everlaſting righteouſneſſe, &amp;c. <hi>which firſt the</hi> Jews. <hi>Secondly, the</hi> Papiſts. <hi>And thirdly, the</hi> Quakers, <hi>being ignorant of, and all going about to eſtabliſh their owne righteouſneſſe, have not ſubmitted to,</hi> Rom. 10.3. &amp; 9.10, &amp;c.</p>
+            <p>
+               <hi>Anſ.</hi> That its not our righteouſneſſe, its granted; nevertheleſſe, we muſt not ceaſe to <hi>worke</hi> out our ſalvation, ſeeing that man is juſtified by <hi>workes,</hi> and not by <hi>Faith</hi> onely, <hi>Iames</hi> 2.24. Second<g ref="char:EOLhyphen"/>ly, That it is the righteouſneſſe of Chriſt by Faith, and that that righteouſneſſe is perfect in him, and in the ſaints; and that not meritorious; as of themſelves; but by the righteouſneſſe of God, which is revealed, according to, <hi>Rom.</hi> 1.17. is granted. But lyart, and falſe accuſers, is out of this righteouſneſſe, albeit they may ſay as the Scripture ſaith, as thou <hi>S. A.</hi> hath done, who ſaith, <hi>that the Quakers is agnorant of Gods righteouſneſſe, and goes about to eſta<g ref="char:EOLhyphen"/>bliſh their own righteouſneſſe.</hi> Here I charge thee again to be a lyar; for Gods righteouſneſſe, which it the righteouſneſſe of Faith, we own; which righteouſneſſe ſpeaketh on this wiſe, &amp;c. as in <hi>Rom.</hi> 10.6. but what ſaith it? <hi>the Word is nigh thee, in thy month, and in thy heart,</hi> Rom. 10.8. this is the Word of Faith, and the righteouſnes which is of Faith, which we beleeve and Preach; and if we, or any other, Preach another Goſpel then the power of God, (<hi>Rom.</hi> 1.16.) or another power than Chriſt, the Power and Wiſedome of God. (1 <hi>Cor.</hi> 1.24.) or any other righteouſneſſe then that which is of Faith, which ſaith, The Word is nigh thee, even in thy mouth,
+<pb n="27" facs="tcp:32783:14"/>and in thy heart, I ſay, <hi>let him be accurſed;</hi> ſo man, be aſhamed, for thou art found one of them, that ſaith, The Scriptures is the Word of God, and ſo hath not ſubmitted unto the righteouſneſſe of God, which ſaith, The Word is nigh, in the mouth and heart, as before; ſo in the gall of bitterneſſe thou art ſound, ſoming out thy own ſhame.</p>
+            <p n="2">2. Querie. <hi>What it is that giveth the Knowledge of God? and how?</hi> Prieſts Anſ. <hi>God himſelfe onely giveth the Knowledge of himſelfe,</hi> Iam. 1.5.17. Ier. 24.7. I will give them an heart to know me, that I am the Lord.</p>
+            <p>
+               <hi>Anſ.</hi> That God onely gives the Knowledge of himſelfe, is gran<g ref="char:EOLhyphen"/>ted; and ſeeing that God gives man an heart to know him, and is the onely giver of Knowledge: Why then doſt thou judge us? be<g ref="char:EOLhyphen"/>cauſe we doe not own your help, counſell, and Inſtruction; (here thou art manifeſt) for God having given us hearts to beleeve (and know him) by his light which ſhineth in us, as in them, 2 <hi>Cor.</hi> 4.6. I ſay, this light, or grace (which is one) is ſufficient for us, as it was for them, 2 <hi>Cor.</hi> 12.9. ſo him we own, and witneſſe to be the onely giver of Knowledge, without the help of all the Learned Rabbies in the World, who is of it</p>
+            <p>Pr. <hi>Now he gives it?</hi> I anſwer: <hi>He gives it effectually onely, by his Spirit; but inſtrumentally, by his Word Preached ordinarily: he gives alſo ſome kind of Knowledge of himſelfe, by his Works, both of Crea<g ref="char:EOLhyphen"/>tion, and Providence, when he exerciſes the minds of men to conſider them: this anſwer is a truth, though I know it wil not ſatisfie thy fooliſh fancy.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> That God gives the Knowledge of himſelfe onely, and effe<g ref="char:EOLhyphen"/>ctually by himſelfe, who is a ſpirit, is granted; therefore to God, who is a ſpirit, and who is light, who gives the Knowledge of him<g ref="char:EOLhyphen"/>ſelfe by his light, 2 <hi>Cor.</hi> 4.6. to him we commit, and ſubmit our ſelves to be taught: And ſeeing God is the onely giver of Know<g ref="char:EOLhyphen"/>ledge effectually, (Reader mark) then, that, I ſay, which is the one<g ref="char:EOLhyphen"/>ly giver, is the ground, cauſe, and effect, ſpiritually and inſtrumen<g ref="char:EOLhyphen"/>tally, as in <hi>Phil.</hi> 2.13. And whereas thou ſaith, <hi>He gives ſome kind of Knowledge of himſelfe (as before)</hi> I ſay, He is the onely effectuall giver of all Divine Knowledge, drawing us unto his Son, (<hi>Iohn</hi> 6.44.) in whom our Eye being placed, we come to ſee, and to underſtand (by his Knowledge) the Works of Creation and
+<pb n="28" facs="tcp:32783:15"/>Providence. And although thou ſay, <hi>thy anſwers will not ſat is f<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> my fooliſh faney;</hi> As for thy reproachfull termes of untruths. I little matter; but know, though I am ſatisfied with that which giveth ſatisfaction, and with ſo much of thine anſwers, as is truth, though but in words, gathered by thy comprehenſion, in litterall experi<g ref="char:EOLhyphen"/>ence, for true experience is far from a lyar; but God gives the Knowledge of himſelfe, by his light, 2 <hi>Cor.</hi> 4.6. and this thou art ignorant of, who <hi>kicks</hi> againſt the prieks of Conſcienes, which tells thee, thou ſhould not lye, nor falſly accuſe, nor Preach for Hire, nor be called of men <hi>Maſter,</hi> nor ſtrive to keep people al<g ref="char:EOLhyphen"/>wayes learning, and ſtill unperfect, ſtill in the bondage of cor<g ref="char:EOLhyphen"/>ruption; they could but be ſo, if they never heard thee take notice of that. But furthermore, God is both the effectuall and inſtru<g ref="char:EOLhyphen"/>mentall giver; effectually, (according to thy own confeſſion) &amp;, I ſay, inſtrumentally by the Word, 1 <hi>Iohn</hi> 1.14. who was quickned in the ſpirit, by which he alſo went and Preached unto the ſpirits in Priſon, 1 <hi>Peter</hi> 3.19. ſo, the Word is our Preacher, which the righteouſneſſe of Faith ſpeaks of, <hi>Rom.</hi> 9.6.7.8 by whoſe light we ſee your cunning craft, and the bottome of you all.</p>
+            <p n="2">2. Quaerie, <hi>Whether you will own the Scriptures to be your rule, and your loves and practiſes, judged by the Apoſtles lives and pra<g ref="char:EOLhyphen"/>ctiſes, yea, or nay?</hi>
+            </p>
+            <p>Pr. Anſ. <hi>I retort this Quarie upon your ſelves, who have forſaken th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Scripture rule, and left the good old way of the Saints: and what have you to doe with the</hi> Apoſtles <hi>practiſes as</hi> Apoſtles? <hi>ye falſe</hi> Apoſtles, <hi>deceitfull workers, transforming your ſelves into the</hi> Apo<g ref="char:EOLhyphen"/>ſtles <hi>of Chriſt,</hi> a Cor. 11.13. that ſay, ye are Apoſtles, and are not, but is found lyars, <hi>Rev.</hi> 2.12.</p>
+            <p>
+               <hi>Anſ.</hi> Here thy winding Serpentine Wiſedom and equivocation in ſeen, evading my queſtion, turning is back againſt the innocent, (accuſing us as above;) I ſay, the Scripture we own every jor and tittle in its place and time of its miniſtration, <hi>viz.</hi> the Old and New Teſtaments, the firſt and ſecond Prieſt-hood, the Law, and changeſt the Law; I ſay, all theſe we own in their time, and alſo the change; and we own, and alſo witneſſe the ſervice of God, and his worſhip, in the newneſſe of the ſpirit, and not in the oldneſſe of the letter; and alſo the ruſe of a new Creature, which is availe<g ref="char:EOLhyphen"/>able, <hi>Gal.</hi> 6.15.16. which is, and was, the good old way of the
+<pb n="29" facs="tcp:32783:15"/>Saints; and ſo by that rule we come (through him that doth renew us, as in <hi>Tit.</hi> 3.5.6.7. into the practiſes of the Apoſtles, in mea<g ref="char:EOLhyphen"/>ſure; and ſo is not falſe Apoſtles, nor no deceitfull workers (that remains for thee to prove <hi>S. A.</hi>) ſo 2 <hi>Cor.</hi> 11.13. touches us not; (Reader mark) <hi>Paul</hi> in the 7. <hi>ver.</hi> teſtifieth that he Preached free<g ref="char:EOLhyphen"/>ly, and in the 9. <hi>ver.</hi> Again, That he was not burthenſome: And again, in the 10. <hi>ver.</hi> he would not be ſtopped of that boaſting, for cutting off occaſion, in the 12. <hi>ver.</hi> from them which deſire occa<g ref="char:EOLhyphen"/>ſion; (mark) <hi>Paul</hi> Preached freely, and they that ſought occaſion againſt <hi>Paul,</hi> was falſe Apoſtles; even as the Prieſts of our dayes, who Preaches for Hire, now ſeeketh occaſion againſt them that Preaches freely; ſo <hi>Rev.</hi> 2.12. ſhall ſtand for your own conditi<g ref="char:EOLhyphen"/>on; and the Lord knows our innocency, who knows alſo that I lye not, neither doe I falſly accuſe you, ye Taske maſters like of Egypt.</p>
+            <p>Pr. <hi>Ah arrant arrogant Phariſees; Will no lower forme in the Church then that of the</hi> Apoſtle <hi>fit you?</hi> 1 Cor. 12.28.29. <hi>and marke it well, ah more umbitious thou</hi> Diotrophes; <hi>Doe you love to have the higheſt preheminence? Did ever any but the Pope, (that</hi> Lucifer <hi>Prelate) and your ſelves pretend to an Apoſtolicall Com<g ref="char:EOLhyphen"/>miſſion and Revelation, ſince the falſe</hi> Apoſtles? <hi>But if ye will needs be</hi> Apoſtles, <hi>then prove your Apoſtleſhip, as</hi> Paul <hi>did,</hi> 2 Cor. 12.11.12. <hi>or elt you muſt lye in the laps of the lye, as indeed you doe?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Here thou calls us proud wandring Phariſees, from which we are clear; I ſay, our example had not where to lay his head, <hi>Luke</hi> 9.58. and we are willing to take our portion with him, and with our cloud of witneſſes, <hi>Heb.</hi> 12.1. who wandered, being de<g ref="char:EOLhyphen"/>ſtitute, &amp;c. <hi>Heb</hi> 11.37. and ſuch laboured in travell, Preaching the change of the Prieſt-hood, and Law; and was perſecuted of them that had their Synagogues to creep into (as you have now) becauſe they teſtified againſt them then, as we doe againſt you now, who is ſound in their ſteps, as is proved. And whereas thou ſaith, <hi>Will no lower forme ſit &amp;c.</hi> (as before) I ſay, we are content with our meaſure, whether high, or low, and it is lawfull for us to covet earneſtly the beſt things, 1 <hi>Cor.</hi> 12.31. and that Scripture owned, 1 <hi>Cor.</hi> 12.28. And though the Apoſtle hath ſhewed a more excellent way, <hi>ver.</hi> 31. And whereas we are accuſed with the <hi>Pope,</hi> to pretend Apoſtolicall Commiſſion; the Pope we deny, and
+<pb n="30" facs="tcp:32783:16"/>all you who is proped up by his beaſtly power; impriſoning for a Word, or a queſtion, and ſuing at Law for your Gentils Tythes, which was inſtituted and managed by the Pope and Saxon Kings, as in the years 933, 940, 959, by King <hi>Ateſton,</hi> King <hi>Edmund,</hi> and King <hi>Edgar,</hi> Pope <hi>Innocent,</hi> and others; which Prieſt-hood and Tythes, was never commanded by God in Old in or New Teſtament; here you are ſeen ſucceeding <hi>your fathers,</hi> ambitiouſly holding up that which God never commanded. And whereas thou ſaith, <hi>We pretend A<g ref="char:EOLhyphen"/>poſtolicall Commiſſion;</hi> Falſe accuſations &amp; ſelfe protences, we deny; but unto every one of us is given grace according to the meaſure of the giſt <hi>of Chriſt,</hi> &amp; that meaſure we own, (<hi>Eph.</hi> 4.7.) to be our Comiſſion and Caller, <hi>viz.</hi> the grace of God, at the Apoſtle did, (<hi>Gal.</hi> 1 15.) whether into Apoſtolicall, or Propheticall, or lower places, which is all free Miniſtrations, according to their meaſures, without mo<g ref="char:EOLhyphen"/>ney or price, and profitable in their places for the work of the Miniſtry, for the edeſying of the body, for the perfecting of the Saints, which perfection, in this life, by your <hi>Prieſts</hi> is denyed; and ſo you are ſound unproſitable, and falſe Apoſtles deceitfully working for your fat benefices, transformed into the name of the Apoſtles, or Miniſters of Chriſts, having your Commiſſion from Man, to trade with the Letter for money, for the free Miniſtration of the Spirit is denyed by you; ſo you deny the Commiſſion of the Miniſtry, which was, <hi>Go teach, &amp;c. freely yee have received, freely give;</hi> and for his ſake who gave this Commition, we take pleaſure in infirmity, as the Apoſtle did, a <hi>Cor.</hi> 12.10. and ſome in much patience, which ſignes and wonders, and mighty deeds, as may be proved to the prayſe of the loving God; and we doe not make a gain of people, as you doe, no more then the Apoſtles did, 2 <hi>Cor.</hi> 12.17.18. neither doe we goo to a Towne or pariſh to in<g ref="char:EOLhyphen"/>quire what maintenance there is for a Miniſter (as Tythes, Gleabe-Lands, &amp;c) and give them a Sermon or two (as you call them) of liking: But we goe to inquire who fears the Lord, and owns the Spirit of God to be their Teacher, which Teacher cannot be re<g ref="char:EOLhyphen"/>moved into a corner, <hi>Iſay</hi> 30.20. and with ſuch we can take a little meat and drink, which the Apoſtles was Commiſioned to re<g ref="char:EOLhyphen"/>ceive; and here is our joy and proofe, not onely in imitation, but in life alſo, witneſſe a gainſt all you who rules as Lords, patterns of pride and covetonſneſſe, learning your Trade, and ſelling, your in<g ref="char:EOLhyphen"/>venitions,
+<pb n="31" facs="tcp:32783:16"/>bearing rule <hi>by your weans,</hi> which is a filthy, horrible thing now in <hi>England,</hi> as it was in <hi>Ieremiahs</hi> days, <hi>Ier.</hi> 5.30, 31. Oh ye <hi>Prieſts,</hi> put it not from you, for it <hi>ſticks</hi> faſt upon you.</p>
+            <p>Pr. <hi>And now to the reſt of the Quaries, I ſhall onely propoſe ſome couſiderations.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> I did but propound foure queſtions unto thee, <hi>as</hi> in num<g ref="char:EOLhyphen"/>ber, and thou haſt diverted two of them, and anſwered two of them with lyes, and true words, and falſe accuſations mixed together, as one voyd of all ſence, making no matter what thou ſpeake, as is, and may be proved. Reader, this is the querie which is not an<g ref="char:EOLhyphen"/>ſwered: <hi>Whether the falſe Teachers and Decoivers may not be known by their fruits and whether they that bring<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th forth the ſame fruits which was declared againſt by the true Prophet Chriſt Ieſus, and his Apoſtles of old, be not the falſe Teachers now, as they were then, yea, or nay?</hi> This quaerie is digreſſed becauſe it coma neer thee <hi>S. A.</hi>
+            </p>
+            <p>Pr. firſt Conſideration. <hi>Doſt thou conclude in cold blood, that either none, or very few of the Miniſters in</hi> England, <hi>are truely god<g ref="char:EOLhyphen"/>ly? and that either none, or very few reall Saints are the ſeale of their Miniſtry in the Lord? and is ſuch ſenſoriouſneſſe ſafe, and without flune?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> I doe conclude, That the Miniſters of Jeſus Chriſt new in <hi>England,</hi> who is called by the grace of God, with Commiſſion from the Spirit of God to Preach the Goſpel freely, as they have received in by the Revelation of Ieſus in them, (as in <hi>Gal.</hi> 1.16) according to the meaſure of the giſt of God, <hi>Eph.</hi> 4.7. I ſay, theſe are truely godly, as they are obedient to the grace appeared, (mark) and that the children of light who is called (and obedient to the grace) out of the faſhions and cuſtomes of the world, and out of all formally invented worſhips, to worſhip God in ſpirit and in truth in the inward man, <hi>Pſal</hi> 51.6. I ſay, this is the ſeale of their Miniſtry; but that the Pariſh miniſters (who is called Miniſters in <hi>England</hi>) is truely godly, that I do deny; For he that loves me, ſaith Chriſt, keeps my Commandements; (now mark.) he hath com<g ref="char:EOLhyphen"/>manded his to be perfect; but the <hi>Prieſt of England</hi> denyes, and pleads againſt his Doctrine herein he hath commanded, not to ſweare at all; but the <hi>Prieſts of England</hi> pleads againſt hsi Doctrine herein he hath commanded, not to ſue any man at Law; but the <hi>Prieſts of England</hi> reſiſts his Doctrine here, in ſuing poor people,
+<pb n="32" facs="tcp:32783:17"/>and ſwearing, or cauſing ſome to ſweare mens goods from them, yes trebble ſums. Chriſt commanded to give freely as they had received; but the <hi>Prieſts of England,</hi> neither receives freely, nor gives freely, Chriſt commanded not to be called of man <hi>Maſter;</hi> but the <hi>Prieſts of England</hi> both calls, and is called <hi>Maſter,</hi> with many more par<g ref="char:EOLhyphen"/>ticulars (which might be mentioned) to this purpoſe; all which ſhews, That the <hi>Prieſts of England</hi> is out of Chriſts Doctrine, and ſo hath not God, 2 <hi>Iohn</hi> 9. ſo not truely godly. And as for them which follows you, which is thus found out of and oppoſe it againſt Chriſts Doctrine; I ſay, they make your Miniſtry manifert and ſeales it with their unbridled lungs and actions to be a barren fruit<g ref="char:EOLhyphen"/>leſſe Miniſtry, voyd of ſanctification, which maketh Saints; ſo you, and your followers, I doe deny to be either truely godly, or reall Saints. But I call them <hi>(not in cold blood, as thou quaeries)</hi> neither according to fleſh and bloods wiſcom; but by the ſpirit of truth, and light of our Lord Ieſus Chriſt; I ſay, I call you, <hi>like Prieſt, like people, Hoſ.</hi> 4.9. &amp;c. and this is no ſinfull ſenſuring, I commend my felſe to every mans Conſcience in the ſight of God, as the Apo<g ref="char:EOLhyphen"/>ſtle did, 2 <hi>Cor.</hi> 4.2. and to the honeſt hearted every where, who is but willing to compare your practiſes with the Doctrine of Chriſt, and practiſes of his Apoſels.</p>
+            <p>Pr. ſecond Conſideration. <hi>Doſt thou ſay or thinks, that thy ſelfe mire hateſt all daceit, and ſin whatſoever, then the ſaid godly Mi<g ref="char:EOLhyphen"/>niſters and Sainits in</hi> England, <hi>or elſe-where doe?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> I am not ſufficient of my ſelfe to think any thing as of my ſelfe; but my ſufficiency is of God, who hath opened my Book of Conſcience, wherein I find and reade the motions of the fleſh, to be an enemy to the motions of Gods Spirit, which hath made me cry with tears for deliverance from that bondage; ſo, by the power of God, I utterly teteſt that nature in my ſelfe in the particular, and in the generall, which oppoſeth Chriſt and his Doctrine; and doth conclude you to be no <hi>Miniſters of Chriſt,</hi> who wreſts his Do<g ref="char:EOLhyphen"/>ctrine for ſelſe ends, and to your own deſtruction; and them to be no Saints who follows ſuch; for the god of this world hath blinded their eyes (that cannot ſee you to be painted Harlots) leſt the light of the glorious Goſpel ſhould ſhine unto them; Therefore, I ſay, you are running from mountain to hill under pretence of Reſor<g ref="char:EOLhyphen"/>mation, and ſtill without the doore in the faſhions and cuſtoms of
+<pb n="33" facs="tcp:32783:17"/>this world, and in your airic Knowledge and Wiſdom, there you ſet up your building, and alſo the foundation of your worſhip, hatched by Tradition, ſpringing from imaginations, the ground of changeable, wayes<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; take notice of that.</p>
+            <p>Pr. third conſideration. <hi>Doſt thou affirme that the deteſtable titles of blinde guides, dumbe dogs, greedy Dogs &amp;c. are given without ſin to ſuch Mineſters, and that their Doctrine and practiſes prova them to be ſuch, as Chriſt and his Apoſtles declares againſt?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> As for godly Saints, or Miniſters, theſe titles are not given to ſuch by us God forbid; but I affirme and teſtiſie by the ſpirit of truth, with the Prophet, that theſe titles are given without ſin to you who is found ſeeking gain from your quarter, as they were. <hi>Iſay</hi> 56.10, 11. and you beare the expreſſe image of the falſe Pro<g ref="char:EOLhyphen"/>phets, and falſe Apoſtles practiſes, as the Reader may take notice in my Anſwers all along this Book; to that of God in every Con<g ref="char:EOLhyphen"/>ſcience who Reades it, I appeale.</p>
+            <p>Pr. fourth con. <hi>Cauſt thou prove, or dareſt thou deny that Mini<g ref="char:EOLhyphen"/>ſters in the Goſſpel time were not ſeated in their own Churches, whether in Countries, Townes. or Cities,</hi> Act. 14.23. <hi>ch.</hi> 20.28. Tit. 1 5. 1 Pet 5 1.2. Col. 1.17. <hi>all theſe places plainly ſpeaboth the countrary?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> I doe not deny, but that the Apoſtles ordained Elders in every Church, and that ſuch as was not greedy of filthy luere (<hi>Tit.</hi> 1.7. 1 <hi>Tim</hi> 3.3) but took the over ſight, not for ſilthy luere, but of a ready mind, 1 <hi>Pet.</hi> 5.1.2.3 and they watched for ſoules, (<hi>Heb.</hi> 13 17.) and not for gain from their quarters, as you Prieſts doe; but that they were ſeated in Pariſhes (the <hi>Popes</hi> diviſion) with their ſet ſtypends, ſuing men at Law if they could not pay them the tenth of the increaſe of their goods, and ground; I ſay, that of deny; and all theſe Scriptures that thou haſt cited will not prove ſuch a thing, as that the Eiders there ſpoken of received Tythes, ei<g ref="char:EOLhyphen"/>ther Tews Tythes, or Gentiles Tythes, as tenth Stack tenth Cock, tenth Lambe, tenth Fleece, tenth Geeſe, tenth Pig, and a Hen if one have but two, and Smoake pence, or <hi>Peter</hi> pence, &amp;c. ſo <hi>S. A.</hi> thou and thy Fellows, with your invented Elders muſt be forced to own the <hi>Pope</hi> to be the inſtitutor and promulgator of your Gentiles Tythes, and he is your example for theſe things, and not the Apo<g ref="char:EOLhyphen"/>ſtles, nor Elders of old; and I refer the Reader to <hi>Henry Clarkes</hi> Book, ſtiled, a deſcription of the Prophets, Apoſtles, and Miniſters
+<pb n="34" facs="tcp:32783:18"/>of Chriſt, and alſo of them called Miniſters in <hi>England, &amp;c.</hi> there thou may take notice of the riſe and foundation of your <hi>Engliſh</hi> Church order, and your Miniſters maintenance, who is found de<g ref="char:EOLhyphen"/>ceitfull workers, and enemies to the Croſſe of Chriſt.</p>
+            <p>Pr. fifth con. <hi>Were not the Apoſtles, Evangeliſts, and Prophets, ex<g ref="char:EOLhyphen"/>traordinary Officers in the Church,</hi> 1 Cor. 12.28. <hi>and particularly Commiſſioned to Preach up and down at itinerants any where, every where without limitation?</hi> Mark 16.15. <hi>and doth not thy deniall of this, argue groſſe ignorance of the very Scripture letter?</hi>
+            </p>
+            <p>
+               <hi>Anſ</hi> Here thou ſhews thine extravagant ſpirit confuſedly, Reader compare the fourth propoſition, and fifth together, and ſee what con<g ref="char:EOLhyphen"/>traditions is in them; for in the fourth, thou <hi>S. A.</hi> goes about to prove the <hi>Miniſters ſetled in Churches, whether in Countries, Townes, or Cities;</hi> and now thou ſaith, <hi>they are Commiſſioned to Preach any where, every where, without limitation;</hi> and alſo, <hi>that they are parti<g ref="char:EOLhyphen"/>cularly Commiſſioned, and were extraordinary Officers,</hi> citing <hi>Marks</hi> 16 15, as though none but the eleven had had that commiſſion; let <hi>Paul, Silas, Timothy, Barnabas,</hi> and theſe Scriptures (<hi>Acts</hi> 20.4.5.6. <hi>ch.</hi> 13.1. <hi>&amp; ch.</hi> 9.10) bear witneſſe againſt thy falacy; for <hi>Apoſtles, Prophets, and Evangeliſts,</hi> with <hi>Paſtors and Teachers</hi> (Eph. 4.11) is but ordinary members compacted in the body, (1 <hi>Cor.</hi> 12.12. &amp; 27.28) and ordinarily ſupplyeth that place in the body, where they are placed, as alſo doth the leſſer members; and one cannot ſay to ano<g ref="char:EOLhyphen"/>ther, I have no need of thee, 1 <hi>Cor.</hi> 12.21.22. <hi>&amp;c.</hi> ſo but ordinary <hi>Officers</hi> in the body for the edifying of the ſame, and for the com<g ref="char:EOLhyphen"/>pleating and perfecting it; ſo here thy deceipt is ſeen, and thou not to be like unto them, nor none of you Tythe-mongers who is at eaſe in the fleſh, and in your pariſhes with a fat benefice: And whereas thou ſaith. <hi>I deny the Apoſtles, Evangeliſts, and Prophets, Call, Com<g ref="char:EOLhyphen"/>miſſion Office, and Miniſtry, w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ch was without limitation;</hi> here I charge thee (in meeknes, and in truth) to be a lyar, for I own the Apoſtles, Prophets and Evangeliſts, their call commiſſion office, and travell in their Miniſtry; and I honour them with my ſoule, whoſe record layes open ſuch leveners as thou to be deceitfull workers and ene<g ref="char:EOLhyphen"/>mies to the <hi>Croſſe of Chriſt</hi> transformed into the name of the Mini<g ref="char:EOLhyphen"/>ſters of Chriſt; but the nature ground, commiſſion and life <hi>of Chriſt</hi> &amp; his Apoſtles you want; ſo take thy ſhameles accuſations home again who hath thus belied me, &amp; the Lord open thy eyes to ſee thy own folly</p>
+            <pb n="35" facs="tcp:32783:18"/>
+            <p> Pr. ſixth con. <hi>Is there not a vaſt difference between taking hire and wages, which the workman is worthy of,</hi> (Luke 10.7.1 Cor 9.7.10.15. 1 Tim. 5.18) <hi>and teaching for hire and filthy lucre ſake? and if it be the duty of all that are taught in the Word, to communicate to him that teacheth in all good things</hi> Gal. 6 6. <hi>canſt thou prove that it is not lawfull for them to take ſuch things, and if</hi> Tythes <hi>are a Legall ce<g ref="char:EOLhyphen"/>remony, and unlawfull under the Goſpel?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Here the end of thy drut is ſeen; <hi>Meats for the belly, and the belly is for meat; but God ſhall deſtroy both it and them,</hi> 1 Cor. 6.13. but there is a great difference between that hire &amp; wages which the Apoſtles was commiſſioned to receive; and taking of <hi>Gentile tythes,</hi> which was never commanded in the Old or New Teſtament, and alſo taking ſet ſtipends, making bargains with Pariſhes, ſuing and caſting into priſons, as is proved: I ſay, here is a vaſt difference; thou haſt cited <hi>Luke</hi> 10 1.1 <hi>Cor.</hi> 10 7. 10 15.1 <hi>Tim</hi> 5.8. for the defence, of your hire. Reader take notice of <hi>Luke</hi> 10.7. where Chriſt ſaith, <hi>in the ſame houſe r<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>in eating and drinking &amp;c. for the labourer is worthy of his hire;</hi> alſo <hi>v</hi> 8. <hi>Eat ſuch things as is ſet before you,</hi> mark, he doth not ſay, Take Tythes and if they will not give you Tythes, ſue them at Law, or caſt them into priſon, as you prieſts doe; but he ſaid <hi>they might cate and drink with them that did receive them,</hi> Luke 10.8 mind that, they were not to bide where they were not recei<g ref="char:EOLhyphen"/>ved, <hi>v</hi> 10. But the Prieſts of our time, who calls themſelves Miniſters of Chriſt (as men voyd of all reaſon) compels all ſorts of people to maintain them albeit they be not received; and they that denyes them to Tythes, (let them be what they will in opinion, or judge<g ref="char:EOLhyphen"/>ment) in Law, or priſon they muſt goe. Oh ſhameleſſe men, where is your comiſſion, or example in the New Teſtament for theſe things, yea, or in the Old Teſtament? And whereas thou cites, 1 <hi>Cor.</hi> 9 7. I ſay take notice, <hi>Paul</hi> ſaith, <hi>v.</hi> 4. <hi>have we not power to eat and to drink I</hi> (mark) he doth not ſay have we not power to take Tythes? and al<g ref="char:EOLhyphen"/>though he had power to eat and to drink, yet he uſed none of theſe things; neither did he write that it ſhould be done unto him, ſee <hi>ve<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſes</hi> 15.16.17 18 19. And as for 1 <hi>Tim</hi> 5.18. I anſwer, we ſhall not deprive the Oxe of his provender, nor the labourer of his hire, but ſhall communicate of our carnalls to them that ſows ſpirituall, and teaches in all good things, as <hi>&amp;al</hi> 6.6. I ſay, if any (who la<g ref="char:EOLhyphen"/>bours in the Word, and preaches freely as he hath received it) come
+<pb n="36" facs="tcp:32783:19"/>amongſt us, he ſhall have meat and drink, if he have neceſſity, and we ſhall not hinder him of ſuch wages as Chriſt gave his commiſſi<g ref="char:EOLhyphen"/>on to receive, <hi>Luke</hi> 10.7.8 but as for Tythes, (which you are not onely Preaching for, but alſo as it were, fighting for) the miniſters of the Goſpel, recorded in the Scriptures, did not own them to be a lawfull ceremony after the change of the Prieſt-hood; but preached the Law changed, and the commandement diſanulled, <hi>Heb.</hi> 7.11. therefore unlawfull under the Goſpel and as unlawfully uſed by you, take it into conſideration; is there not a begger in <hi>England,</hi> as there was not to be in <hi>Iſrael?</hi> and where is your ſtore houſe? Ah ye Tythe-mungers, let ſhame cover you all.</p>
+            <p>Pr. ſeventh con, <hi>Whether the Miniſters of</hi> England &amp;c. <hi>or the Qua<g ref="char:EOLhyphen"/>kers trade in Babels wares as thou chargeſt us I but ſtay a little, ſith thou art ſo forward in this matter, I ſuſpect thee the more, and ſhall therefore make bold to ſearch thy packe before we part that I may ſee what com<g ref="char:EOLhyphen"/>modities thou carries, and whence thou hadſt thy wares, &amp;c. I feare thou will be found moſt foule in this fauls thy ſelfe.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> I anſwer, yee Pariſh-maſters trades in Babells wares, as is, and may be proved; and therefore my charge is truth, and ſhall ſtick neer you till you come down from the throne of your imaginations, where the ſtone, of your building is graven, &amp; your image molten. And whereas thou ſaith, <hi>Stay a little, &amp;c.</hi> I ſay, come freely, with all thy Function, and ſearch me, adn ſpare me not, and accuſe me for nothing but that which I carry; ſo I ſhall ſay little more to this, but take heed thou be not found a blinde ſearcher, as the Reader may take notice, as followeth.</p>
+            <p>And now I come to thy falſe conjunction, or accuſations wherein thou would ranke us with the Papiſts, if thou could.</p>
+            <p>Pr. firſt accuſation. <hi>The Babyloniſh merchants. (I meane the Papiſts) have their ſeverall ſorts of corrupt wares to ſell, which you are their onely chapmen for, and hath taken them of their hands; That the com<g ref="char:EOLhyphen"/>mon light in all is ſufficient to ſalvation, provided men doe not ſtifle it, nor extinguiſh it by wilfull ſinning againſt it: Sirs, ſay not you-ſo too?</hi>
+            </p>
+            <p>
+               <hi>Anſ</hi> This accuſation is falſe, and confuſed; we never was at the Papiſts Colledges to learne a trade, as moſt of you have bin; as at Trinity Colledge, Chriſts Colledge, Jeſus Colledge, St. Johns Col<g ref="char:EOLhyphen"/>ledge, &amp;c. theſe Colledges was inſtituted by the Popes Law, and na<g ref="char:EOLhyphen"/>med after Saints, for nurſing up of Jeſuites; as alſo your <hi>Churches</hi>
+               <pb n="37" facs="tcp:32783:19"/>with the Popes Croſſes upon the moſt of them, and called by the name of Saints, as St. <hi>Peters</hi> Church, St. <hi>Pauls</hi> Church, St. <hi>Maries</hi> Church, &amp;c. ſo I have not given you a wrong title, <hi>viz. Merchants of Babell,</hi> which comes neerer you in the miſtery, then Papiſts out<g ref="char:EOLhyphen"/>ward tenents; for I muſt tell thee and you, That Babell may be buil<g ref="char:EOLhyphen"/>ded with cunninger Carpenters then the outward impreſſion of ſu<g ref="char:EOLhyphen"/>perſtition; nevertheleſſe, you are found the Papiſts imitaters, injoy<g ref="char:EOLhyphen"/>ing both their learning-ſhops, and market-ſhops, to wit both Col<g ref="char:EOLhyphen"/>ledges, and Maſſe-houſes, in which you buy and ſell your wares; as ſinging <hi>Hopkins</hi> and <hi>Sternholds</hi> meeter, as part of your worſhip, commanded by the <hi>Sexon Kings</hi> as in the year 747, by King <hi>Edgbert,</hi> and in 924. by King <hi>Ethelſtone, alies Atelſtine, &amp;c.</hi> as alſo your ſprinkling of Infants, which was commanded by King <hi>I<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>as, alies Ina.</hi> or <hi>Ive,</hi> in 1213. I refer the Reader to <hi>Henry Clarks</hi> Book, ſtiled a deſcription of the Apoſtles and Miniſters of Chriſt, and of thoſe called Miniſters in <hi>England, &amp;c.</hi> Thou ſaith, <hi>the Papiſts holds, that the common light in all, is ſufficient,</hi> (as before) joyning us with them; and yet thou asks us, <hi>Whether we ſay ſo or not?</hi> Here the Reader may take notice, that thou accuſeth us for thou knows not what, and alſo that thou art a blind ſearcher, who ſaid, <hi>thou would ſearch my packe,</hi> and yet thou art ſain to inquire of us, <hi>What we carry, and what we ſay?</hi> I ſay, thou art not fit to judge, ſeeing thou art both blinde and haſty; and the Papiſts I deny, with their bloody inſtigations, but that light I own, which the Prophet Propheſied of, (<hi>Iſay</hi> 49.6.) and <hi>John</hi> boare teſtimony to, <hi>John</hi> 1.9.10 to be ſufficient to ſalvation which was given for ſalvation, <hi>Iſay</hi> 46 6. <hi>John</hi> 8.12 and he that walks not in this light, walks in darkneſſe, and knows not whether he goes, be<g ref="char:EOLhyphen"/>cauſe darkneſſe hath blinded his eyes, as is manifeſt upon thee <hi>S. A.</hi> which knows not what thou ſpeaks, nor whereof thou affirmeth.</p>
+            <p>Pr. 2. Ac. <hi>That mans naturall will is free to repent, beleeve, and turn to God; and that converſion is not the fruit of the ſpirit in the elect alone.</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Here thou wou'd joyn us with the Papiſts, but we deny thy conjunction with the Papiſts, and thou art found a blind ſearcher, for we hold no ſuch thing (as above:) For we know, that mans naturall fleſhly carnall will and mind, is not ſubject to the Law of God, but naturally inclined to corruption, from which, he that walks in the light, knows a cleanſing, 1 <hi>John</hi> 1.7. but that convertion is not the fruit of the ſpirit alone, is falſe alſo; <hi>For the ſpirit quickneth, the fleſh
+<pb n="38" facs="tcp:32783:20"/>proſiteth nothing.</hi> John 6.63. and this we teſtifie, that it is God in all his ſaints, <hi>m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sch worketh in them both to will, and to doe,</hi> Phil. 2.13. ſo 5. <hi>A.</hi> thou muſt own a lyars portion, except thou repont.</p>
+            <p>Pr. 3. Ac. <hi>The Papiſt teathouth, that a man may be perfect, without ſin in this life, and may fulfill all Gods Commandements: and doe not the Quakeres the ſame?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Here thou accuſeth us with the Papiſts in thy ſmoakie conſu<g ref="char:EOLhyphen"/>ſion; for ſirſt, thou ſaid affirmatively, <hi>that we had taken the Papiſts waves off their hands;</hi> and now thou art asking us queſtions, <hi>What we doe?</hi> but thou ſhould have had thine Eye better opened, before thou had <hi>ſearched my packe,</hi> for thou boaſted proudly; and yet thou inquires of us: ſo thou art found a blind ſearcher in the ſtreets of <hi>Sodom.</hi> and therefore a blind guide nor fit to lead others. And as for <hi>pe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ction.</hi> I have ſpoken to it before and he that perfects, is alſo the fulfuler and end of the Law for righteou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>neſſe ſake, to every one that beleeve<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h, to the Jew firſt, and alſo to the Genetile, <hi>Rom.</hi> 10.4. and the righteouſneſſe of the Law is ſulfilled in them that walk<g ref="char:EOLhyphen"/>eth after the ſpi it <hi>Rom.</hi> 8.4. take notice of that ye who pretends Reformation, and ſee if ye be yet come to the Law and h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>w you have paſſed through its Miniſtration of condemnation, to the Miniſtration of righteouſneſſe and peace.</p>
+            <p>Pr. 4. <hi>Ac. The Papiſts makes their perfection to lye in thi<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>n caſting off of wordly imployments, callings relations after the fl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſh, propr<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ties, as their Nuns, Monkes and Hormots, abuſing</hi> Mat. 19 11 &amp;c. <hi>you are as like them herein, as you were ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>itted out of their moutles.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> We deny thy accuſations and the papiſts perfection herein; but this is our perfecter by whom our perfection is wrought, even he, which ſaid <hi>Faſhion not your ſolves like unto this world,</hi> whoſe Doctrine we are willing to obey, though reproached for the ſame, and numb<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed with the papiſts as our head was <hi>with tranſgs <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ffours, Iſay</hi> 53.11.12. but what the Nuns and the Munkes abuſe. is no<g ref="char:EOLhyphen"/>thing to us, for we know, that perfection doth not lye in ſelling out outward eſtates; but in dying with Chriſt unto ſin, and in putting off of the old man, with his deeds, that the new man may be wit<g ref="char:EOLhyphen"/>neſſed, which is <hi>perfect.</hi> (Eph 4.24) cleaving onely to the <hi>perfect righteouſneſſe</hi> of God, <hi>by the ſpirts of his Son in our hearts,</hi> Gal 4.6. ſo we deny both you. and all the rabble of your papiſtical Functi<g ref="char:EOLhyphen"/>on, who hath ſwallowed up the <hi>Popes</hi> Law which he vomited, to
+<pb n="39" facs="tcp:32783:20"/>guard his Jeſultes with by which Law you cauſe the innocents to ſuffer, as moſt of the Goales in this nation can witneſſe; ſo you are the unclean ſpirits, which is ſpitten out of his mouth, exereſing the power of his beaſtly Laws; ſo you are his Image, though more <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>in<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>lier carved, adn hath a more guilded covering, ſo you are found to be more in the miſtery Babell, having your hearts exerciſed with co<g ref="char:EOLhyphen"/>vertous prctiſes, whith is Idolatry, <hi>Gal.</hi> 3.5. this is extant is <hi>England,</hi> and elſe where amongſt you prieſts, the papiſts imitators, as more largely may be proved by tour Churching of Women (as you call it,) Mortuaries, Funerall-Sermons, and Marrying for money, with much more Romiſh traſh, too tedious to mention.</p>
+            <p>Pr. 5 Ac. <hi>The Papiſts holds inherent righteouſnes to be the matter of our juſtsfication. and not the righteonſnes of Chriſt alone; and doe not you alſo the ſame?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Here thou blind man accuſeth us with the Papiſts, and yet thou enquires, <hi>Whether we doe the ſame, or not?</hi> thou art proved a blinde ſearcher as I ſaid; confuſedly firſt accuſing, and then quaerying whe<g ref="char:EOLhyphen"/>ther it be ſo, or not? I ſay, if the Papiſts hold <hi>inherent righteouſnes,</hi> to be the matter of your juſtification, as thou ſaith; then we deny both you, and the Papiſts herein; for we hold not <hi>inherent righteouſ<g ref="char:EOLhyphen"/>nes, viz.</hi> th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> righteouſnes which dependeth upon outward merits to be our juſtification alone; although <hi>James</hi> hath ſaid, <hi>that man is juſtified by Works, and not by Faith onely,</hi> Jam. 2.24. but we are ju<g ref="char:EOLhyphen"/>ſtified by the righteouſnes of the Faith of the Son of God, which Faith is juſtified or <hi>made perfect by works,</hi> Jam. 2.22. So <hi>S. A.</hi> be<g ref="char:EOLhyphen"/>ware how thou <hi>ſearcheſt my packe</hi> another time, leaſt thou be found falſly, and confuſedly accuſing, as then arr now.</p>
+            <p>Pr. 6. Ac. <hi>The Papiſts doe place their Religion and Righteouſneſſe moſt in externals, and things that have a ſhew of wiſedomo in will-worſhip &amp;c. ſo doe the Quakersridgedly reſtratning, as of obſolute neceſſity, the uſe of Cuff<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, Points Lace, Hathands, and the like, as if they might not at all be uſed, or could not without ſin, or as if theſe were matters of greateſt moment.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Here thy blind and falſe conjuction is ſeen, as all along is proved and thou art ſeen to be ignorant of us, and our Religion; for we deny that foundation which is external, and we deny the Papiſts the head, and you the tayle in the myſtery of Babell, and all your externall performances, as they are held in the our ſed nature
+<pb n="40" facs="tcp:32783:21"/>and ground, and all your principles in that ground. And as for <hi>ha<g ref="char:EOLhyphen"/>ving a ſhew of wiſdom in will worſhip, &amp;c.</hi> this will turn home again to thee and your ſelves, who ſormally in your wills can preach and pray by your glaſſe or watch being not a ſhamed to lye in the con<g ref="char:EOLhyphen"/>cluſion of your work, (as thus) you having rent a verſe of Scripture in pleces, Preaching ſo long as an houre laſts; then you ſay, <hi>much more might be ſpoken but time will not por<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>t,</hi> when you have nothing elſe to does but to ſerve your bellies; for the which ſervice, you leave the other, be ginning in your own time, and ending in your own time; and none muſt aske you a queſtion, not ſpeak in exhortation, till your houres talk be ended; contrary to 1 <hi>Cor.</hi> 14.30.31.32. and here your will worſhip is <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>een, as certain of your own P<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ets <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Cr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s-men can teſtifie, who by the grace of God, is convinced of, and turned from your witchcraſt. And as for <hi>ridgedly reſtr<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ning the uſo of Cuffs, &amp;c.</hi> (as above) that is falſe; but we doe it willingly in obe <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ience to our God, not in a voluntary humility, neither to the ſatisfying of our ſt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſh; and if thou were not ſhameſul<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y hardened, thou would not contemne us for the caſting off of the ſuperfluities of naughtineſſe, which <hi>l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mes</hi> exhorted to eaſt off, <hi>lames</hi> 1.21. ſee 1 <hi>Pet</hi> 3.3.1. <hi>Tim.</hi> 2.9. and thou that on encourages peoples in outward adorning is contraty to the Apoſtle 1 <hi>Pet.</hi> 3.3. and ſo help them to sow to the fleſh, and into whoredom, and is of that generation which ealled the proad happy (<hi>Mas.</hi> 3.15.) and one with the Papiſts, with your C<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ff Points, Ribbous, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uch like arregant traſh, deſired by your ambitious wills, for the outward adorning of your duſt and aſhes in which you Pariſh Maſters is patternes, nothing different from the Papiſts in the ground, take notice of that Reader, if thou have an Eare.</p>
+            <p>Pr. 7. Ac. <hi>The Papiſts, ſay, that we are no true M<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ſters of Chriſt, but decesvers, and teacheth the Devination of our own brai<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es, and ſo doe you, with much more.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> The papiſts we deny, with all their blood-thirſty crew: and alſo we deny all the perſecuting generation of pr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>efts in <hi>England,</hi> &amp; elſe where to be the miniſters of the power of God, which is the Goſpel; and we have found you to be one in the ground with the papiſts though more painted in the miſtery; not divine, though de<g ref="char:EOLhyphen"/>viners; and what we ſay we are ready to prove againſt both the pa<g ref="char:EOLhyphen"/>piſts and you, having not onely found you out in the miſtery, but
+<pb n="41" facs="tcp:32783:21"/>alſo in open rebellion againſt the Doctrine of Chriſt, the end of his comming, and againſt the vertue of his offering as is proved.</p>
+            <p>Pr. 8. Ac. <hi>The Papiſts ſay, our Churches are no true Churches bus they own to for their Paſtors and Teachers; and ſo ſay the Quakers.</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Here thou art trapped in thy own ſnare, both in Popery, and confuſion: for thou ſaid before, that the papiſts ſaid, <hi>You were not true Min<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſters of Chriſt, but deceivers;</hi> and now thou ſaith, <hi>that they own you for their paſtors and teachers:</hi> here is confuſion that the pa<g ref="char:EOLhyphen"/>piſts ſhould firſt call you <hi>decesvers;</hi> and now (according to thy own confeſſion) calls you, and own you, <hi>to be their paſtors and teachers:</hi> and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o may they well, for they pay you wages; ſo here, you pri<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſis are found papiſts paſtors and teachers; although thou haſt gon about hither<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to cleare thy ſelfe and prieſt-hood papiſtry, yet in thy <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſe conju<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>i <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n, and blind ſearch, the ſire of thy pride, envy, and anger hath b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en f<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rth in a flame to diſcover thee for thou art owned of them, with thy Faction, to be their paſtore and teachers; ſo <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> art found <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>onle in that wherein thou ſeared me and now thou muſt take the papiſts for thy, and your brethren, and hearers, and let them b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ate your teſtimony, for they pay you Tythes, or wages, and you injoy their ſh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pps, marke that.</p>
+            <p>Pr. 9. Ac. <hi>The <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>arſts know, that the great thing that muſt be done before they can <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>duce amongſt us, is to make them reject their teachers; and there fore they bond all their wits and endeavours to vi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>fie them and drow the hearts of the people from them; end ſo do the Quakers</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> What the papiſts, your owners doth, it is nothing to us we deny them and your paſtets and teachers, who is thus found in diſ<g ref="char:EOLhyphen"/>cord. Firſt thou ſaith. <hi>they call you no true Miniſters but deceivers.</hi> Secondly thou ſaith, <hi>they own you for their paſtors and teachers.</hi> And now thou ſaith <hi>they ſtrave to viſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>fie you, and draw people form you.</hi> Oh bottomles pit conſaſion no wonder if they miſt or vapour darken the ayre, and obſcure the Sn; but that we <hi>bend our wits and endeavours to debaſe you, or villiſie you,</hi> contrary to truth and righte<g ref="char:EOLhyphen"/>ouſnes: I ſay that falſe, for we lye in the will of God, who is ga<g ref="char:EOLhyphen"/>thering people (from all dumbe ſhepherds) himſelfe, that they may be no more meat for them, <hi>Eze.</hi> 34.10. ſo we reſt in his coun<g ref="char:EOLhyphen"/>ſell and in his promiſe, <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>zo.</hi> 34.11.10.17. <hi>Iohn</hi> 10.16 ſo we reſt in his counſell, who treads the winepreſſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> alone, <hi>Iſay</hi> 63.3.4.5.6. by whoſe power, the refuge of lyars is violated, and he hath a contro<g ref="char:EOLhyphen"/>verſie
+<pb n="42" facs="tcp:32783:22"/>with you all, and is riſen in righteous judgement to render a reward to the proud, <hi>Pſal.</hi> 94.2.</p>
+            <p>Pr. 10. Ac. <hi>The Papiſts main error conſiſts in the contempt of the Soriptures: they ſay, they will not take it for the Word of God, but on the authority of the Church; and that it is but part of his Word, and that Decrees and Conſtitutions of Popes and Counſels, are of equall authority with it: the Quakers ſay, its not the Word of God, but onely a Declara<g ref="char:EOLhyphen"/>tion of the Word that was in them that gave it forth, and that what themſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lves ſpeak or write, is from the ſame ſpirit &amp; therfore equal with it</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Here we deny both you and the papiſts, who holds the Scri<g ref="char:EOLhyphen"/>pture to <hi>be the Word,</hi> either in part, or in whole; and alſo we do deny both the Popes Decrees, Conſtitutions, Counſels, and your divinati<g ref="char:EOLhyphen"/>ons and practiſes, to be equal with, or agreeable either to the Scri<g ref="char:EOLhyphen"/>pture as it is or to the ſpirit that gave them forth; and you that ſay, <hi>they are the Word;</hi> and they that ſay, <hi>they are in part the Word of God;</hi> I ſay unto you, you are both Idolaters, for the Scripture, which you call, <hi>the Word,</hi> ſaith, <hi>God was the Word,</hi> John 1.1. and, <hi>that Word be<g ref="char:EOLhyphen"/>came Fleſh,</hi> John 1.14. ſo you Prieſts is forming a whole idoll, and the Papiſts but part of an idoll; ſo you are found filling up the mea<g ref="char:EOLhyphen"/>ſure of your fathers, greater idolaters then the pa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>if<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s. And whereas thou ſaith, <hi>the Quakers ſay, its but onely a Declaration;</hi> I ſay, the Evangeliſt ſaith alſo ſo, <hi>Luke</hi> 1.1. and God is the Word, who alſo is a ſpirit which did inſpire his mind and will into his ſervants, which they recorded for a reſtimony unto future ages; which teſtimony is perverted, wreſted, idolized, and made a trade upon by the Pariſh-maſters of <hi>England</hi> and elſe-where, who is owned of the Papiſts for Paſtors and Teachers according to <hi>S. A.</hi> his own conſeſſion: but as touching the <hi>Word of God,</hi> I have ſpoken largely to it in the 15 pag. ſo, I ſay, he that ſpeaketh and writeth truth in ſincerity, ſpeaketh and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>riteth from the ſpirit of truth, <hi>viz.</hi> the ſpirit of God and ſo from the ſame ſpirit that gave forth the Scriptures and ſo, (as it is truth) equall with the Scriptures of truth, according to its meaſure.</p>
+            <p>Pr. 11. Ac. <hi>The Papiſts ſay, it is but a dead letter, &amp; ſo do the Quakers</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Thou ſaid before, that the papiſts owned you to be their <hi>paſtors and teachers,</hi> ſo you popiſh paſtors and teachers, we deny your teſti<g ref="char:EOLhyphen"/>mony, if you ſay that inke and paper in it ſelfe is living; but we own it, that it was the inſpired words, and will of God, freely revealed, and freely recorded by them to whom it was inſpired by the move<g ref="char:EOLhyphen"/>ings
+<pb n="43" facs="tcp:32783:22"/>of the holy Ghoſt, and ſo written freely for our learning; but not to make a trade of, as the Papiſts, Biſhops, and Ieſuites did of old (after five, or ſix, or ſeven years learning, as Prentiſes at ſome Univerſity) and as the Pariſh maſters doe now, who after 5.6. or 7. years Prentiſes at ſome Univerſity or great Schoole, gets a place, or Pariſh in the Country, and ſo much in the year, and teaches there, it may be, all his life-time, and will tell people, that three parts of the world hath never heard of Chriſt; and yet he abides in his Pariſh, and once in ſeven dayes ſtands up in his ſhop, where he is accompa<g ref="char:EOLhyphen"/>ni<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d by ſome, may be 40.50. or 60. years with ſome, and more, or leſſe with moſt part; and ſtill they are like the crackling of Thornes under a pot, unbridled, unſtable, not ſo much of Chriſts Doctrine lived in and obeyed, as yea &amp; nay; in their communication; or not to ſweare at all; ſo you Prieſts are found hatched in the Popes Neſt, but deeper in the miſtery of witchcraft, by ſayrer painted profeſſion.</p>
+            <p>Pr. 12. Ac. <hi>The Papiſts ſay, it is not fit to be judge of controverſies; the Quakers ſay, the touchſtone of tryall is not the word without, but the light within.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> I ſay, I deny the Papiſts herein, for the Scriptures is fit to judge of ſome controverſies, if it be held in the righteous part; but I doe not ſay neither with the Papiſts that it is not fit; nor with you popiſh paſtors and teachers, that it is the tryar of ſpirits: ſo here I deny both the Papiſts, and you. And whereas thou ſalſt. <hi>We ſay the touchſtone is not the Word without, but the light within:</hi> I ſay, <hi>that God it light,</hi> (John 1.5.) <hi>who fils Heaven and Earth with his preſence,</hi> let. 23.24 and this is the word which we own, which is like a ſire, and a hammar; <hi>before whoſe eyes all things are naked and open,</hi> Heb. 4.12.13. who is a diſcerner of the thoughts and ſearches the heart, and tryes the reignes of people, this is our touchſtone, <hi>the Word nigh in our mouthes and hearts,</hi> Rom. 10 8. <hi>the ingrofied Word,</hi> I am. 1.21. and this is the light which ſhineth in our hearts, which giveth us the know<g ref="char:EOLhyphen"/>ledge of the glory of God. 2 <hi>Cor.</hi> 4 6. and reproves and makes ma<g ref="char:EOLhyphen"/>nifeſt all things, <hi>Eph.</hi> 5.13. and thou that contemns the light with<g ref="char:EOLhyphen"/>in, comtemns that which gave the Apoſtles knowledge, 2 <hi>Cor.</hi> 4 6, for Chriſt was given for a light, ſee the promiſe, <hi>Iſay</hi> 49.6. and alſo his own teſtimony, <hi>Ioh.</hi> 8.12. &amp; 12.46 and it was not a Chriſt with<g ref="char:EOLhyphen"/>out the Gentiles which was the hope of glory, but <hi>Chriſt in them,</hi> Col. 1.27. and this Chriſt is the light, and ſeed, which bruiſeth the
+<pb n="44" facs="tcp:32783:23"/>head of the ſerpent within, take notice of that; and unto him all power is given, and he hath ſaid, <hi>Got not forth.</hi> Mat 14.16.</p>
+            <p>Pr. 13. Ac. <hi>The Papiſts prefer the vulgar tranſlations, before the ſaws words that the ſpirit did indite the Scriptures <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s; namely,</hi> Hebrew <hi>and</hi> Greek; <hi>and ſo doe the</hi> Quakers <hi>the</hi> Engliſh <hi>before theſe.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> We own all Tongues in their places; but that the Scripture was given forth or indited by the ſpirit in <hi>Hebrew</hi> and <hi>Greek</hi> onely, is falſe; or there was at <hi>ler iſalem of every Nation under Heaven, and every man heard them ſpeak in his own Language,</hi> Act. 2.3.9. but I ſay, that you, or any other, by the litterall Knowledge of theſe Tongues can open the Scriptures, that we deny, for as there is no reſpect of perſons with God, ſo there is no reſpect of Languages (with him) nor Tongues; but in every nation, he that fea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eth God, and worketh righteouſnes, is accepted, <hi>Acts</hi> 10 34 35, ſo ſeace your witchcraft, &amp; from dawbing over the ſaints words with your Lod<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ck, who epride is in your ſongues; your Tongues is waters, the ſeat of the Whore <hi>Rev.</hi> 17 15. and becauſe you would be counted wiſe and learned therefore you mingle your Tongues &amp; ſo your marchandize paſſes or currant amongſt the blind; yea, I may ſay wilfully blind, who (if they will) may ſee your ravenous inſide, out of which is powered envie railing lyes and ſlanders covetouſne<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and perſecution at all that reads in this, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd marks your reproa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hes, may ſee. And now I deny both the Papiſts, and you, who is both nurſed up at Univerſi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ies (ſo cal<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed) and learned in your Tongues, as <hi>Pilate</hi> was, <hi>Iohn</hi> 10.19. o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> let <hi>Peter</hi> and <hi>John</hi> (be witnes againſt you) who was not learned and yet gave forth the Scripture; ſo our native Tongue we own as ch<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſe to us, becauſe it is the fiſt of God, wereby we underſtand one another, and we own all other in their places; but we deny them that takes pride in any Tongue, or mixes their dirty Logick with the Scripture, for money.</p>
+            <p>P<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. 14. Ac. <hi>If the Papiſts could but get down the regulusing autho<g ref="char:EOLhyphen"/>rity of the Scriptures, they would conclude, they had won the field; for they will not abide that all ſpirits be t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>yed by the written word, nor will the</hi> Quakers.</p>
+            <p>
+               <hi>A.</hi> The Papiſts we deny, and their indeavor herein: and the Scri<g ref="char:EOLhyphen"/>ptures we own, and their regall authority, which is the <hi>power of God:</hi> but all ſuch as creep into houſes, to make a trade of the Scriptures, abuſeth the Scriptures authority; and here ye Pariſh, made <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, and
+<pb n="45" facs="tcp:32783:23"/>Jeſuite ſucceſſors (who coms from their Colleges into their Maſſe-houſes) are found in deavouring to tread the Regal or Kingly Autho<g ref="char:EOLhyphen"/>rity of the Scripture under your ſeet; ſo from that authority, you are gone to the image of Queen <hi>Ma<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>es</hi> Law, by which the Jeſuits was and you Prieſts is garded; and by the ſame Law, ſome of you have impriſoned to death; as witnes, <hi>Exeter, Colcheſter, Lanceſter, Yorke,</hi> and <hi>Durham</hi> Goales; ſo the authority of the Scriptures, <hi>viz. the power of God</hi> is denied by you, which is ſled to the power of na<g ref="char:EOLhyphen"/>tionall Laws and Magiſtrates to hold you by; putting the letter for the word and tryall of ſpirits, you your ſelves being miniſters of the letter; and yet, whith the letter, cannot ſee your ſelves in <hi>Cains, Corahs,</hi> and <hi>Bala<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ms</hi> ſpirit and practiſes, for which (amongſt the reſt of your forceries) the curſe will overtake you, exe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pt you repent: And thou that would have the Scripture to be the tryar of ſpirits, thou preſumes to take the ballances out of the hand of God; <hi>the Lord weigh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th the ſpirits,</hi> Pro 16 2. <hi>and the ſpirit ſearch<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th all things</hi> 1 Cor. 2.10 <hi>and whatſoever maketh manifeſt, is light,</hi> Eph. 5.13 ſo that which ſearcheth weigheth and maketh manifeſt is, <hi>the Lord his ſpirit, and h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> light,</hi> and theſe three are one, from whom we have <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ecei<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed the unction, or ano<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nting, <hi>which teacheth of all thing,</hi> 1 Iohn 2.27. they that t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yed the pirits was ſuch as <hi>John</hi> exhorted to the anoyn<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing for teaching from the teachings of man ſaith he <hi>Yere<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d not that any m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n te<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>h you &amp;c</hi> 1 John 2 27, and they that were of God h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ard them that ex<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed to the anoynting from the teachings of men of cor<g ref="char:EOLhyphen"/>rupt minds; and this I teſtifie that they are guided by the ſpirit of A<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Chriſt, who doth not own Chriſt the light, come into th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> fleſh to deſtroy the works of the Devill, and to give thee knowle<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e of God and of Adoption, and the hope of Glory; and to give <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e knowledge of condemnation, and righteouſnes and of ea<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſtration and how they are paſſed through. And whereas h<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> art telling of a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>titeen word <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o be the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rya<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; I ſay, the Scripture we <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the addition <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e deny and ſhall have it upon thee to prove, for <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ver and gold is pure in its nature, but it may be mou<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>en into a Calfe; ſo <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>o the Scriptures is pure and true as they are; but they may be (and is) ab<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſed by the builders of Babell now in the mi<g ref="char:EOLhyphen"/>ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ery of their work<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng; but the Lo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d will no longer be mocked by ſuch cunn<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng Carpenters but is riſen, and hath taken a view of all ſhadows, by his light, which is as the eye-lids of the Morning by
+<pb n="46" facs="tcp:32783:24"/>which all buildings is made manifeſt to be upon the ſand, though the builders of all ſorts have pretended to hew their ſtones from one Rock; yet the Lord hath a controverſie with you, and by his power, which is the authority of the Scriptures, is the ſhaking all buildings at their very roots.</p>
+            <p>Pr. <hi>Now many more particulars could I inſtance were it neceſſary, and not over tedious, to prove your ſelves to be the Babyloneſh Factors, that have received the marke of the Beaſt in your hand, though not in your fore-heads ſo fully yet as to diſcover you to all; yet to us you are diſcovered plainely.</hi>
+            </p>
+            <p>
+               <hi>A</hi> Theſe particulars which thou haſt already inſtanced, is ſuffi<g ref="char:EOLhyphen"/>cient for us to ſee thy blindnes, for if thine eye had been open when thou ſearched my p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>c<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e (as thou ſaid thou would) thou would have bin aſhamed to have thus falſly accuſed us with thy confuſion which accuſations is juſtly reforted to the puddle from whence they ſprang, for even the ſame ſpirit, that called Chriſt <hi>mad,</hi> and ſaid, <hi>he had a Devill;</hi> the ſame ſpirit that called <hi>Paul, a peſtelont fellow, and a mo<g ref="char:EOLhyphen"/>ver of Sedition;</hi> I ſay, the ſame ſpirit in thee <hi>S. A.</hi> hath indeavou<g ref="char:EOLhyphen"/>red to joyn us with the Papiſts thine own predeceſſors as is proved; therefore the Romiſh Factors or Merchants you are found, as well as Babyloniſh, having received the mark of the Beaſt in your Fore-heads, ruſhing forward in lyes and ſlanders, <hi>as a horſe into the battell;</hi> ſo beaſt like, puſhing and wraſtling with fleſh and blood, <hi>viz.</hi> with the perſons of men plunging them into holes and dungeons, even as ſtrong beaſts drives the weak; ſo here you are found exereiſing the power of the firſt Beaſt, perſecuting the free miniſtration of the ſpirit the anoynter, the comforter; for the Scribes and Phariſees was the firſt that with ſtood the Miniſtry of Chriſt and perſecuted the ſaints and ſpoyled their goods. Secondly, the Papiſts getting the name of Chriſtians, they brought in <hi>Gentiles tythes,</hi> and ſo made an image to the firſt beaſtly perſecuting Miniſtre of the <hi>Seribes and Phariſees,</hi> having get up their <hi>Tythes, Eaſter reckonings, P<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>er-pence, Smoake-pence,</hi> and the like, <hi>as</hi> in <hi>Henry Clarkes</hi> Beck before menti<g ref="char:EOLhyphen"/>oned, &amp; in <hi>Anthony Pearſons</hi> Book ſtiled <hi>the great caſe of</hi> Ty<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hes may be ſeen; for the which, they perſecuted them that with held them. Thirdly, the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ariſh maſters or out dayes having get a fairer forme, is found filling up the meaſures of both <hi>S<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>thes and Phariſees,</hi> and the <hi>Papiſts</hi> perſecuting and fighting themſelves, as hath been
+<pb n="47" facs="tcp:32783:24"/>proved, and as I can witnes from <hi>Richard Gilpyn</hi> of <hi>Graſtooks,</hi> who puſhed me with his hand, calling me ſimple foole, and threathing me with priſon, and clapping by the heeles. &amp;c. ſo to us you are made manifeſt, and ſhall no more we are a rough garment (to deceive) or a black dyed Inke garment; but the Lord will cut off the name of the <hi>Kimerims,</hi> or the name of the Black-coats; ſo look to it you ſons of the Sorcerers; for the lack of wages hath ſtopped, and will ſtop the mouthes of the idol ſhepherds, that calls the Scriptures the word of God, and try all of ſpirits. And <hi>as for not being fully deſcovered to all;</hi> I would we were diſcovered to all, as we are by the grace of God, that all might know our innocency concerning thoſe things whereof thou Acenſeth us.</p>
+            <p>Pr. <hi>And the marke you have received, is your allowance among them to buy and ſell with them; ſo</hi> Rev. 13.16.17. <hi>for now they doe truſt you, and maintains commerce with you, ſith they ſee you will not ſtick to ſell their Rats-bane for bread, with which you have poyſoned many a ſonle.</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Here thou ſlanderous man may be proved an open lyar, as hi<g ref="char:EOLhyphen"/>therto thou haſt been all along thy preamble; for although thou haſt indeavoured, and bended thy <hi>Caine</hi>-like ſpirit, to prove us con<g ref="char:EOLhyphen"/>ſederate with the Papiſts, yet thou cannot juſtly; and therefore thy fallacy is turned home again, and thou, and all you, which is owned by them for their paſtors and teachers, muſt own them in communi<g ref="char:EOLhyphen"/>ty or elſe be aſhamed of taking wages of them; and alſo of <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ad<g ref="char:EOLhyphen"/>ing in their ſteps, and trading with their Wares; for they learned 5. or 6. or 7. years, more or leſſe, at a Colledge, or elſe-where, and ſo doe you: They ſing <hi>Davids Pſalmes</hi> Tranſlated into Rime and Meeter by <hi>Iohn Hopkins,</hi> and <hi>Thomas Sternhold,</hi> or others, and ſo doe you: They ſprinkled Infants, and ſo doe you: They Preached Funerall-Sermons, and ſo doe you: They had Mortuaries, and ſo have you: They took money for Marrying, Churching of Women, Burying the Dead and ſo doe you: They ſtood up in the ſame Pul<g ref="char:EOLhyphen"/>pits in which you ſtand, and in the ſame Houſes (as may be proved) which you ignorantly call the Church: They rent the Scripture into Heads, Doctrines, Uſes, Points, Motives, &amp;c. and ſo doe you: They halled to priſon them that ſpoke to them in the time of their houres talke, and ſo doe you: They Impriſoned but three moneths, but you Impriſon ſix, ſo here you are found in their ſteps, <hi>as</hi> may be ſeen in <hi>Anthony Pearſons</hi> Book, and in <hi>Henry Clarks</hi> Book, ſpoken of before.
+<pb n="48" facs="tcp:32783:25"/>And whereas thou ſaith, <hi>We are allowed, truſted, and they maintains com<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ce or converſation &amp;c. with us;</hi> here thou lyar is ſeen: let their bloody perſecution againſt <hi>us</hi> in <hi>France, Spaine, Italy</hi> and elſe<g ref="char:EOLhyphen"/>where, beare teſtimony againſt thy ſlanderous Tongue, which diſ<g ref="char:EOLhyphen"/>covers the treaſure of thy heart what it is. And <hi>as for ſe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing their R<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>-bane, &amp;c. whereby we p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tſon, &amp;c. (as above as thou ſaith.)</hi> I ſay, <hi>the p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>yſon of Af<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s is under the lips of lyars, ſlanderers, and falſe accu<g ref="char:EOLhyphen"/>ſars,</hi> in which work thou art found, and thy Fellow levenars; and all Ph<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>i<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>call and Papiſticall marchandize we abhor, and all ſuch un<g ref="char:EOLhyphen"/>reaſonable men as thou art; the Smoake of thy inverted Fuell is ſea<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ered by the light of our Lord Jeſus Chriſt in this Paper; ſo p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yſoners you are by hypercriſie, and it ſhall ſtand upon you in the day of the Lord for a name, except thou repent of feeding poor people with leven.</p>
+            <p>And now to thy cloſure, the ſcope of which I ſhall tranſcribe.</p>
+            <p>Pr. <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>co feſſe I have been more tedious thou <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ntended, &amp;c. and doth hereby teſtifie againſt your preſent condition, and after a firſt, and now this ſecond admonition, as Hereticks, I<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re act you, &amp;c.</hi> Tit. 3.10. <hi>and will have no fam<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lear fellowſhip with ſuch ſelfe condemned perſons as you are not honour any of your Papers any more with anſwer, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r receive you to houſe, &amp;c. leaſt I ſhould partake of your evill deeds &amp;c.</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Thou haſt had a long travell in lyes, and ſtanderous accuſti<g ref="char:EOLhyphen"/>ons; and the ſame that opened thy mouth in confuſion and lyes, is now cloſing or concluding thy paper with reſolutions of the ſame nature; but thou had more need to confeſſe and forſake thy folly and deceipt in which thou liveſt in the miſtery, as a Wol<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e in a Sheeps Skin; but it's too hard for thee to wage war againſt the free miniſtration of the ſpirit of God; for he will not be tyed to your forme nor confined to your houre-glaſſes, or watches: not will not at all be limited by this confuſed covetous <hi>Came</hi>-like, gain-ſaying ſlanderous ſpirit, which lodgeth, and liveth in your invented tra<g ref="char:EOLhyphen"/>ditionall will-worſhip; which ſpirit in thee <hi>S. A.</hi> hath begun with a lye, and continued thy Diſcourſe with confuſed, and unjuſt retor<g ref="char:EOLhyphen"/>tings; and thy teſtimony againſt us, is but ſuch another, a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> theirs was who ſaid, <hi>this fellow ſaid I am able to deſtroy the Temple of God, &amp;c.</hi> Mat. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>6.60.61. and this I lay upon thee <hi>S. A.</hi> in the preſence of the dreadfull God of Heaven and Earth that thou art a lyar, a falſe accuſar, and a falſe witneſſe againſt the innocent and guiltleſſe,
+<pb n="49" facs="tcp:32783:25"/>reflecting that upon us, which thou neither haſt, nor canſt prove, God forbid, it were better for us to dye, if it were ſo; but we know our innoceney, which will cleare us in the ſight of God, when theſe thy ſnares will ſetter thyne own fect. And <hi>as for being Hereticks, or obſtinate in a falſe beliefe,</hi> this is utterly falſe; for we are willing to give account of our Faith; and we doe appeale to God, the Judge of all, and to every mans conſcience in his ſight, and to the teſtimonies of the ſaints <hi>viz.</hi> the Scriptures, for any thing that we hold. And thou <hi>S. A.</hi> that teacheth for the fleede, and filthy lucre, and is found thus lying and ſlandering, hath no<g ref="char:EOLhyphen"/>thing to doe with <hi>Titus; For</hi> Titus <hi>did not make againe of people,</hi> as thou doſt; ſee a <hi>Cor.</hi> 12.28. but thou art found a lyar, falſly, and enviouſly acouſing the innocent. So thou art not found in the ſpi<g ref="char:EOLhyphen"/>rit of godly admonition, but in wrath, and in the ſpirit of wilfull contempt againſt the innocent, with whom thou can have no fel<g ref="char:EOLhyphen"/>lowſhip, neither doe we deſire it in that nature. And whereas thou calls us <hi>Selfe condemned perſons;</hi> here thou contradicts thine own accuſation, <hi>who ranks us up with the Papiſts in ſelfe-juſtification;</hi> and now again calls us, <hi>ſelfe-condemned perſons.</hi> I pitty thy ſad condition, unſtable ſoule, thou art a wandring ſtar, to whom the miſt of dark<g ref="char:EOLhyphen"/>neſſe is reſerved for ever, except thou repent. And, <hi>as for honouring our papers any more &amp;c.</hi> I ſay, thou haſt vilified them hitherto with lyes and ſlanders, and ſo is found contemning, and not honouring them. And now, <hi>whether thou will receive us to thy houſe, or bid us God ſpeed?</hi> yet know thou, that we are not aſhamed of the <hi>Doctrine of Chriſt.</hi> And we charge thee to prove wherein we are out of it, and what the evill deeds is which thou accuſeth us of, and wherein we are <hi>Hereticks;</hi> theſe things remains for thee to prove, without falſe accuſations: ſo as I ſaid before, ſo ſay I now, <hi>ſearch our packe, and ſpare us not</hi> but give us righteous judgement, and marke well leaſt thou be miſtaken; for thou <hi>S. A.</hi> hath not had thine eye in the head when thou <hi>ſearched my packe</hi> whereof thou did boaſt; ſo, blind-man-like, thou haſt run thy ſelfe into error.</p>
+            <p>And now to conclude againſt it, in plaineſſe and love to thy ſoule, and for the feed ſake in thee, I exhort thee, and warne thee, (being thy fellow-creature, and a lover of the Creation of God) that thou take head to thy ſoule, leaſt thou loſe it, and conſider thine eſtate ſeriouſly, and be not puffed up by fleſhly wiſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dome, and
+<pb n="50" facs="tcp:32783:26"/>becauſe thou canſt ſpeake faire things; but take heed to the light which maniteſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eth all things, <hi>Eph.</hi> 5.13. which light will let thee ſee the root, ground and end of thy Miniſtry, and decen<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ble not with that of God in thee, which me will anſwer; and teſtifie with me, that you all rebelliouſly walke contrary either to the Rule of Scripture, or a New Creature; and alſo, that you Speake and Write contemtuouſly contrary to your owne knowledge; ſo man. I exhort thee (as one called in meaſure from the Net, and from the Ship) if thou wilt receive it, to b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ware betime, and come out of that wicked and adulterous generation, wherein thou lyes in the ſhaddow of reformation, masked by the miſt of the whores wiſdome; For know this, That the fitteth upon <hi>multitudes, Nations, Tongues, and Peoples,</hi> Rev. 17.15. not upon one Nation, nor one Tongue, nor one People but upon <hi>Peoples,</hi> (marke) <hi>&amp;c.</hi> but now is the Lord bringing People from the Multitudes, and Heaps of Teaching without, and from the miſtery of <hi>Babylon</hi> the great which is drunke with the blood (or liſe) (<hi>Rev.</hi> 17.11.) of the Saints which is recorded in the Scriptures. I ſay, he is bringing People from that ayrie drunken wiſedom without, to the miſtery which hath been bid. <hi>viz.</hi> Chriſt within, <hi>Col.</hi> 1.27. and thoſe that doubteth <hi>of Chriſt</hi> ſpeaking in man, is ſuch as ſought a prooſe of Chriſt ſpeaking in <hi>Paul</hi> 2 <hi>Cor.</hi> 13.3 and now what ſhall I more ſay, for it would till a Volume to record all that might be ſpoken in defence of our innocency concerning thoſe things whereof thou accouſeth us, from which we are cleare, God is our witneſſe, in whoſe preſence we are naked, who knows that I lye not; ſo the Lord weigh thee in a more equall ballance then thou haſt weighed us; and we pray that theſe things be not layd to thy charge. So with my tender love to the ſeed of God in all. I reſt reſerring this Dialogue to the honeſt hearted, and by the ſeed of righteouſneſſe in all to be judged.</p>
+            <p>And now, this w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> teſtifie unto you all, That after the way that ye eal Herefie, worſhip we the God of our Fathers, bel<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eving all things (as they are) which is Recorded in the Scriptures; and is willing to give a reaſon of the hope that is in us; and this is out hope, Chriſt in us the hope (<hi>Col.</hi> 1.27.) which hope maketh not aſhamed <hi>Rom.</hi> 5.5. and this Chriſt, this light and hope <hi>within,</hi> gives us the Knowledge of the Glory of God, 2 <hi>Cor.</hi> 4.6. for
+<pb n="51" facs="tcp:32783:26"/>none knows the Father, but by the revelation of the Sonne, which is light, <hi>Mat.</hi> 11.27. for that which may be knowne of God is manifeſt in man, <hi>Rom.</hi> 1.9. and whatſoever makes manifeſt is light, <hi>Eph.</hi> 5.13. and he that hath revealed, and made manifeſt the Father hath given us an underſtanding of the dverſities of the opperation of God, which worketh all in all, (mark) all in all, 1 <hi>Cor.</hi> 12.6 as ſaith the Apoſtle, <hi>Eph.</hi> 2.13. its God that work<g ref="char:EOLhyphen"/>eth in you both to will and to doe. So this we teſtifie unto all people, That the living God is our God, who by the Word, the World did make, which Word became Fleſh; who is the expreſſe Image of his Fathers Perſon, <hi>Heb.</hi> 1.3. in whom dwelleth the fulneſſe of the God-head bodily, <hi>Col</hi> 2.9. and this is the Word which ſactifieth. <hi>Iohn</hi> 17.17. the Word of Faith which is nigh, in the mouth, and heart, <hi>Rom.</hi> to. 8 by whoſe blood, or life, he hath purged and is purging our Conſciences from dead works, to ſerve the living God in his ſpirituall worſhip, and in his owne Kingdome, which conſiſts not in words, but in power, 1 <hi>Cor.</hi> 4. 20. and in righteouſneſſe, <hi>Rom.</hi> 14.17. and is not to be found without, but within, <hi>Luke</hi> 17.21. in which Kingdome which con<g ref="char:EOLhyphen"/>ſiſts in power and righteouſneſſe, is the deverſities of the operation of Gods work known both of election redemption, and ſanctifica<g ref="char:EOLhyphen"/>tion wrought by him which worketh all in all. He is the Author of our Faith; which Faith purifies our hearts; which Faith is perfected by works, <hi>Iames</hi> 1.22. <hi>viz.</hi> the workes of righteouſ<g ref="char:EOLhyphen"/>neſſe wrought in our hearts by the ſpirit of God, and brought forth by obedience to the motions of his power; ſo that with our hearts we beleeve unto righteouſnes: &amp; with our mouths, confeſſion is made unto ſalvation; the new covenant being known, which is not like unto the old, under which Covenant we are in the ſubſtance of all Figures, in the better hope, which maketh per<g ref="char:EOLhyphen"/>fect, <hi>Heb.</hi> 7.19. which hope we hold as an Anker of our ſonles, ſtaying our wills and deſires, ſubjecting all, as he is obeyed: And this is our Faith and Hope in which we ſtand, by which we know the teachings of Gods ſpirit, which leads in to the life of righte<g ref="char:EOLhyphen"/>ouſneſſe, purging our Conſciences from all uncleaneſſe, as we obay the Counſell of his Will; by which Will we are ſanctified, <hi>Heb.</hi> 10.10. and now we rejoyce in hope.</p>
+            <p>Giving thanks unto the Father, which hath made us meet to
+<pb n="52" facs="tcp:32783:27"/>be partakers of the Inheritance of the Saints in light, who h<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> deliuered us from the power of darkneſſe, and hath trai<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> us into the Kingdome of his deare Sonne, in whom we have <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>demption through his blood, merits, and righteouſneſſe, ev<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> the forgiveneſſe of ſinnes, upon whom we lay hold by a lively Faith, the miſtery of which is held in a pure Conſcience, 1 <hi>Ti<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> 3.9. Therefore all People, examine your ſelves betime, wheth<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> you be in the Faith or not, for all your profeſſion (which is <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> held in the purifying Faith) will vaniſh from you, and leave you naked in the day of the Lords vengeance; So take heed betim<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> what you <hi>kicke againſt,</hi> and minde the <hi>pricke</hi> of that of God <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> your Conſciences in ſecret, which will let you ſee where you mindes are, and what is the treaſure of your Hearts; this is <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Teacher that cannot be removed to a corner, <hi>Iſay</hi> 30.20. <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> whoſe preſence you cannot fly to hide your ſe<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ve, in <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Profeſſion; therefore turne to the Teachings of Gods Sp<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> that his Law which he hath Written in your hearts, may be Light unto your Feet and a Lantherne to your Pathes that y<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Bread may be ſure, and your Water may never fayle; that <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in your own Lamps you may witneſſe, without which you <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> not enter into the Bridegroomes Chamber: So remember ye<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> are Warned.</p>
+            <closer>
+               <signed>
+                  <hi>By One who-hath Learned of the Grace <gap reason="illegible: in gutter" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> God to deny all Hirelings, and wolfe-fiſh She<gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>herds, and hath found him whom my Soule love<gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> which leads into his ſpirituall worſhip, there <gap reason="illegible: in gutter" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> reſt, willingly to ſuffer the tryalls of our F<gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> before all the Sonnes of Men.</hi> IOSEPH HELLING.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
